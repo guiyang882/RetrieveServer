@@ -1,0 +1,1216 @@
+[09:49:00 10/18/16] INFO  - LOG INITIALISED
+Opened Successful: testdb
+the classnum is 93.
+loading /opt/Dic20160901/14_国家大剧院_d.csv. the cols of class 0 are: 200
+loading /opt/Dic20160901/24_朝阳体育馆_d.csv. the cols of class 1 are: 200
+loading /opt/Dic20160901/80_莲湖池公园(遥感)_d.csv. the cols of class 2 are: 200
+loading /opt/Dic20160901/16_天安门_d.csv. the cols of class 3 are: 200
+loading /opt/Dic20160901/6_北京展览馆_d.csv. the cols of class 4 are: 200
+loading /opt/Dic20160901/18_奥体中心体育场_d.csv. the cols of class 5 are: 200
+loading /opt/Dic20160901/2_北京北站_d.csv. the cols of class 6 are: 200
+loading /opt/Dic20160901/51_凤凰国际传媒中心(遥感)_d.csv. the cols of class 7 are: 200
+loading /opt/Dic20160901/12_国家体育馆_d.csv. the cols of class 8 are: 200
+loading /opt/Dic20160901/32_陶然亭公园_d.csv. the cols of class 9 are: 200
+loading /opt/Dic20160901/37_龙潭湖公园中心岛剧场_d.csv. the cols of class 10 are: 200
+loading /opt/Dic20160901/38_中科院光电院气球中心_d.csv. the cols of class 11 are: 200
+loading /opt/Dic20160901/74_朝阳体育馆(遥感)_d.csv. the cols of class 12 are: 200
+loading /opt/Dic20160901/49_北京西站_d.csv. the cols of class 13 are: 200
+loading /opt/Dic20160901/30_莲湖池公园_d.csv. the cols of class 14 are: 200
+loading /opt/Dic20160901/20_奥林匹克森林公园五环亭_d.csv. the cols of class 15 are: 200
+loading /opt/Dic20160901/17_央视大楼_d.csv. the cols of class 16 are: 200
+loading /opt/Dic20160901/42_人民日报大楼_d.csv. the cols of class 17 are: 200
+loading /opt/Dic20160901/62_国家体育馆(遥感)_d.csv. the cols of class 18 are: 200
+loading /opt/Dic20160901/26_林达海鱼广场_d.csv. the cols of class 19 are: 200
+loading /opt/Dic20160901/3_北京国际雕塑公园_d.csv. the cols of class 20 are: 200
+loading /opt/Dic20160901/65_地坛体育馆(遥感)_d.csv. the cols of class 21 are: 200
+loading /opt/Dic20160901/53_北京国际雕塑公园(遥感)_d.csv. the cols of class 22 are: 200
+loading /opt/Dic20160901/55_北京奥林匹克网球中心(遥感)_d.csv. the cols of class 23 are: 200
+loading /opt/Dic20160901/52_北京北站(遥感)_d.csv. the cols of class 24 are: 200
+loading /opt/Dic20160901/10_南苑机场_d.csv. the cols of class 25 are: 200
+loading /opt/Dic20160901/87_龙潭湖公园中心岛剧场(遥感)_d.csv. the cols of class 26 are: 200
+loading /opt/Dic20160901/9_北海公园_d.csv. the cols of class 27 are: 200
+loading /opt/Dic20160901/99_北京西站(遥感)_d.csv. the cols of class 28 are: 200
+loading /opt/Dic20160901/93_兴创大厦(遥感)_d.csv. the cols of class 29 are: 200
+loading /opt/Dic20160901/31_银河SOHO_d.csv. the cols of class 30 are: 200
+loading /opt/Dic20160901/33_中央电视塔_d.csv. the cols of class 31 are: 200
+loading /opt/Dic20160901/34_颐和园_d.csv. the cols of class 32 are: 200
+loading /opt/Dic20160901/36_首都机场_d.csv. the cols of class 33 are: 200
+loading /opt/Dic20160901/40_五棵松体育馆_d.csv. the cols of class 34 are: 200
+loading /opt/Dic20160901/13_国家图书馆_d.csv. the cols of class 35 are: 200
+loading /opt/Dic20160901/63_国家图书馆(遥感)_d.csv. the cols of class 36 are: 200
+loading /opt/Dic20160901/64_国家大剧院(遥感)_d.csv. the cols of class 37 are: 200
+loading /opt/Dic20160901/15_地坛体育馆_d.csv. the cols of class 38 are: 200
+loading /opt/Dic20160901/41_人民大会堂_d.csv. the cols of class 39 are: 200
+loading /opt/Dic20160901/43_兴创大厦_d.csv. the cols of class 40 are: 200
+loading /opt/Dic20160901/45_鸟巢_d.csv. the cols of class 41 are: 200
+loading /opt/Dic20160901/46_水立方_d.csv. the cols of class 42 are: 200
+loading /opt/Dic20160901/47_天坛_d.csv. the cols of class 43 are: 200
+loading /opt/Dic20160901/48_北京南站_d.csv. the cols of class 44 are: 200
+loading /opt/Dic20160901/50_北京站_d.csv. the cols of class 45 are: 200
+loading /opt/Dic20160901/60_南苑机场(遥感)_d.csv. the cols of class 46 are: 200
+loading /opt/Dic20160901/19_奥林匹克公园瞭望塔_d.csv. the cols of class 47 are: 200
+loading /opt/Dic20160901/21_工人体育馆_d.csv. the cols of class 48 are: 200
+loading /opt/Dic20160901/22_中国科技馆_d.csv. the cols of class 49 are: 200
+loading /opt/Dic20160901/23_望京soho_d.csv. the cols of class 50 are: 200
+loading /opt/Dic20160901/27_梅地亚中心_d.csv. the cols of class 51 are: 200
+loading /opt/Dic20160901/28_环球财讯中心_d.csv. the cols of class 52 are: 200
+loading /opt/Dic20160901/29_紫禁城_d.csv. the cols of class 53 are: 200
+loading /opt/Dic20160901/66_天安门(遥感)_d.csv. the cols of class 54 are: 200
+loading /opt/Dic20160901/1_凤凰国际传媒中心_d.csv. the cols of class 55 are: 200
+loading /opt/Dic20160901/4_北京大学国际医院_d.csv. the cols of class 56 are: 200
+loading /opt/Dic20160901/67_央视大楼(遥感)_d.csv. the cols of class 57 are: 200
+loading /opt/Dic20160901/68_奥体中心体育场(遥感)_d.csv. the cols of class 58 are: 200
+loading /opt/Dic20160901/69_奥林匹克公园瞭望塔(遥感)_d.csv. the cols of class 59 are: 200
+loading /opt/Dic20160901/70_奥林匹克森林公园五环亭(遥感)_d.csv. the cols of class 60 are: 200
+loading /opt/Dic20160901/71_工人体育馆(遥感)_d.csv. the cols of class 61 are: 200
+loading /opt/Dic20160901/72_中国科技馆(遥感)_d.csv. the cols of class 62 are: 200
+loading /opt/Dic20160901/73_望京soho(遥感)_d.csv. the cols of class 63 are: 200
+loading /opt/Dic20160901/76_林达海鱼广场(遥感)_d.csv. the cols of class 64 are: 200
+loading /opt/Dic20160901/77_梅地亚中心(遥感)_d.csv. the cols of class 65 are: 200
+loading /opt/Dic20160901/78_环球财讯中心(遥感)_d.csv. the cols of class 66 are: 200
+loading /opt/Dic20160901/61_中华世纪坛(遥感)_d.csv. the cols of class 67 are: 200
+loading /opt/Dic20160901/79_紫禁城(遥感)_d.csv. the cols of class 68 are: 200
+loading /opt/Dic20160901/81_银河SOHO(遥感)_d.csv. the cols of class 69 are: 200
+loading /opt/Dic20160901/82_陶然亭公园(遥感)_d.csv. the cols of class 70 are: 200
+loading /opt/Dic20160901/83_中央电视塔(遥感)_d.csv. the cols of class 71 are: 200
+loading /opt/Dic20160901/84_颐和园(遥感)_d.csv. the cols of class 72 are: 200
+loading /opt/Dic20160901/89_中科院遥感与数字地球研究所(遥感)_d.csv. the cols of class 73 are: 200
+loading /opt/Dic20160901/39_中科院遥感与数字地球研究所_d.csv. the cols of class 74 are: 200
+loading /opt/Dic20160901/96_水立方(遥感)_d.csv. the cols of class 75 are: 200
+loading /opt/Dic20160901/85_首都体育馆(遥感)_d.csv. the cols of class 76 are: 200
+loading /opt/Dic20160901/86_首都机场(遥感)_d.csv. the cols of class 77 are: 200
+loading /opt/Dic20160901/95_鸟巢(遥感)_d.csv. the cols of class 78 are: 200
+loading /opt/Dic20160901/97_天坛(遥感)_d.csv. the cols of class 79 are: 200
+loading /opt/Dic20160901/100_北京站(遥感)_d.csv. the cols of class 80 are: 200
+loading /opt/Dic20160901/98_北京南站(遥感)_d.csv. the cols of class 81 are: 200
+loading /opt/Dic20160901/92_人民日报大楼(遥感)_d.csv. the cols of class 82 are: 200
+loading /opt/Dic20160901/91_人民大会堂(遥感)_d.csv. the cols of class 83 are: 200
+loading /opt/Dic20160901/90_五棵松体育馆(遥感)_d.csv. the cols of class 84 are: 200
+loading /opt/Dic20160901/88_中科院光电院气球中心(遥感)_d.csv. the cols of class 85 are: 200
+loading /opt/Dic20160901/54_北京大学国际医院(遥感)_d.csv. the cols of class 86 are: 200
+loading /opt/Dic20160901/5_北京奥林匹克网球中心_d.csv. the cols of class 87 are: 200
+loading /opt/Dic20160901/56_北京展览馆(遥感)_d.csv. the cols of class 88 are: 200
+loading /opt/Dic20160901/7_北京海洋馆_d.csv. the cols of class 89 are: 200
+loading /opt/Dic20160901/57_北京海洋馆(遥感)_d.csv. the cols of class 90 are: 200
+loading /opt/Dic20160901/59_北海公园(遥感)_d.csv. the cols of class 91 are: 200
+loading /opt/Dic20160901/11_中华世纪坛_d.csv. the cols of class 92 are: 200
+[09:49:13 10/18/16] INFO  - RetrieveServer ## id=8eb34f651a3d4dca#pi=1#pn=10#word=遥感#
+[09:49:13 10/18/16] INFO  - status 1
+[09:49:13 10/18/16] INFO  -  id:142 path:116.327886,39.917362 name:中华世纪坛(遥感)
+[09:49:13 10/18/16] INFO  -  id:154 path:116.404928,40.012343 name:中国科技馆(遥感)
+[09:49:13 10/18/16] INFO  -  id:165 path:116.312768,39.92547 name:中央电视塔(遥感)
+[09:49:13 10/18/16] INFO  -  id:170 path:116.287474,40.077776 name:中科院光电院气球中心(遥感)
+[09:49:13 10/18/16] INFO  -  id:118 path:116.288661,40.078453 name:中科院遥感与数字地球研究所
+[09:49:13 10/18/16] INFO  -  id:171 path:116.288661,40.078453 name:中科院遥感与数字地球研究所(遥感)
+[09:49:13 10/18/16] INFO  -  id:172 path:116.287104,39.917544 name:五棵松体育馆(遥感)
+[09:49:13 10/18/16] INFO  -  id:173 path:116.399905,39.911241 name:人民大会堂(遥感)
+[09:49:13 10/18/16] INFO  -  id:174 path:116.481241,39.921829 name:人民日报大楼(遥感)
+[09:49:13 10/18/16] INFO  -  id:175 path:116.33719,39.768859 name:兴创大厦(遥感)
+[09:49:13 10/18/16] INFO  - RetrieveServer ## id=4fc49992d8284dfb#pi=1#pn=10#word=中华世纪坛(遥感)#
+[09:49:13 10/18/16] INFO  - status 1
+[09:49:13 10/18/16] INFO  -  id:1193 path:/opt/tomcat/webapps/targetreg/admindata/remote/61_中华世纪坛(遥感)/ name:61_1.jpg
+[09:49:13 10/18/16] INFO  -  id:1194 path:/opt/tomcat/webapps/targetreg/admindata/remote/61_中华世纪坛(遥感)/ name:61_2.jpg
+[09:49:13 10/18/16] INFO  -  id:1195 path:/opt/tomcat/webapps/targetreg/admindata/remote/61_中华世纪坛(遥感)/ name:61_3.jpg
+[09:49:13 10/18/16] INFO  -  id:1196 path:/opt/tomcat/webapps/targetreg/admindata/remote/61_中华世纪坛(遥感)/ name:61_4.jpg
+[09:49:13 10/18/16] INFO  -  id:1197 path:/opt/tomcat/webapps/targetreg/admindata/remote/61_中华世纪坛(遥感)/ name:61_5.jpg
+[09:49:13 10/18/16] INFO  -  id:1198 path:/opt/tomcat/webapps/targetreg/admindata/remote/61_中华世纪坛(遥感)/ name:61_6.jpg
+[09:49:13 10/18/16] INFO  -  id:1199 path:/opt/tomcat/webapps/targetreg/admindata/remote/61_中华世纪坛(遥感)/ name:61_7.jpg
+[09:49:13 10/18/16] INFO  -  id:1200 path:/opt/tomcat/webapps/targetreg/admindata/remote/61_中华世纪坛(遥感)/ name:61_8.jpg
+[09:49:13 10/18/16] INFO  -  id:1201 path:/opt/tomcat/webapps/targetreg/admindata/remote/61_中华世纪坛(遥感)/ name:61_9.jpg
+[09:49:13 10/18/16] INFO  -  id:4629 path:/opt/tomcat/webapps/targetreg/admindata/photo/11_中华世纪坛/ name:11_1.jpg
+[09:49:13 10/18/16] INFO  -  id:4630 path:/opt/tomcat/webapps/targetreg/admindata/photo/11_中华世纪坛/ name:11_10.jpg
+[09:49:13 10/18/16] INFO  -  id:4631 path:/opt/tomcat/webapps/targetreg/admindata/photo/11_中华世纪坛/ name:11_11.jpg
+[09:49:13 10/18/16] INFO  -  id:4632 path:/opt/tomcat/webapps/targetreg/admindata/photo/11_中华世纪坛/ name:11_12.jpg
+[09:49:13 10/18/16] INFO  -  id:4633 path:/opt/tomcat/webapps/targetreg/admindata/photo/11_中华世纪坛/ name:11_13.jpg
+[09:49:13 10/18/16] INFO  -  id:4634 path:/opt/tomcat/webapps/targetreg/admindata/photo/11_中华世纪坛/ name:11_14.jpg
+[09:49:13 10/18/16] INFO  -  id:4635 path:/opt/tomcat/webapps/targetreg/admindata/photo/11_中华世纪坛/ name:11_15.jpg
+[09:49:13 10/18/16] INFO  -  id:4636 path:/opt/tomcat/webapps/targetreg/admindata/photo/11_中华世纪坛/ name:11_16.jpg
+[09:49:13 10/18/16] INFO  -  id:4637 path:/opt/tomcat/webapps/targetreg/admindata/photo/11_中华世纪坛/ name:11_17.jpg
+[09:49:13 10/18/16] INFO  -  id:4638 path:/opt/tomcat/webapps/targetreg/admindata/photo/11_中华世纪坛/ name:11_18.jpg
+[09:49:16 10/18/16] INFO  - RetrieveServer ## id=881354c0c7544685#pi=1#pn=10#word=中科院遥感与数字地球研究所#
+[09:49:16 10/18/16] INFO  - status 1
+[09:49:16 10/18/16] INFO  -  id:1336 path:/opt/tomcat/webapps/targetreg/admindata/remote/89_中科院遥感与数字地球研究所(遥感)/ name:89_1.jpg
+[09:49:16 10/18/16] INFO  -  id:1337 path:/opt/tomcat/webapps/targetreg/admindata/remote/89_中科院遥感与数字地球研究所(遥感)/ name:89_2.jpg
+[09:49:16 10/18/16] INFO  -  id:1338 path:/opt/tomcat/webapps/targetreg/admindata/remote/89_中科院遥感与数字地球研究所(遥感)/ name:89_3.jpg
+[09:49:16 10/18/16] INFO  -  id:1339 path:/opt/tomcat/webapps/targetreg/admindata/remote/89_中科院遥感与数字地球研究所(遥感)/ name:89_4.jpg
+[09:49:16 10/18/16] INFO  -  id:1340 path:/opt/tomcat/webapps/targetreg/admindata/remote/89_中科院遥感与数字地球研究所(遥感)/ name:89_5.jpg
+[09:49:16 10/18/16] INFO  -  id:5096 path:/opt/tomcat/webapps/targetreg/admindata/photo/39_中科院遥感与数字地球研究所/ name:39_1.jpg
+[09:49:16 10/18/16] INFO  -  id:5097 path:/opt/tomcat/webapps/targetreg/admindata/photo/39_中科院遥感与数字地球研究所/ name:39_2.jpg
+[09:49:16 10/18/16] INFO  -  id:5098 path:/opt/tomcat/webapps/targetreg/admindata/photo/39_中科院遥感与数字地球研究所/ name:39_3.jpg
+[09:49:16 10/18/16] INFO  -  id:5099 path:/opt/tomcat/webapps/targetreg/admindata/photo/39_中科院遥感与数字地球研究所/ name:39_4.jpg
+[09:49:16 10/18/16] INFO  -  id:5100 path:/opt/tomcat/webapps/targetreg/admindata/photo/39_中科院遥感与数字地球研究所/ name:39_5.jpg
+[09:49:16 10/18/16] INFO  -  id:5101 path:/opt/tomcat/webapps/targetreg/admindata/photo/39_中科院遥感与数字地球研究所/ name:39_6.jpg
+[09:49:16 10/18/16] INFO  -  id:5102 path:/opt/tomcat/webapps/targetreg/admindata/photo/39_中科院遥感与数字地球研究所/ name:39_7.JPG
+[09:54:35 10/18/16] INFO  - RetrieveServer ## featureurl=/opt/tomcat/webapps/targetreg/userupload/6506b57fad674e43a9a0146523fd5846_cap.csv#height=363#id=5a2837cc708d4686#purl=/opt/tomcat/webapps/targetreg/userupload/6506b57fad674e43a9a0146523fd5846.jpg#saveurl=/opt/tomcat/webapps/targetreg/userupload/6506b57fad674e43a9a0146523fd5846_cap.jpg#upleftx=162#uplefty=1#width=413#
+imgwidth is 1200, imgheight is 674
+width is 820height is 607upleftx is 321uplefty is 1
+ASIFT Start.
+Feature Save URL ## /opt/tomcat/webapps/targetreg/userupload/6506b57fad674e43a9a0146523fd5846_cap.csv
+Extract Features From:/opt/tomcat/webapps/targetreg/userupload/6506b57fad674e43a9a0146523fd5846_cap.jpg
+Processing. 
+image heigh : 607
+image width : 820
+image band  : 3
+WARNING: The input images are resized to 200x148 for ASIFT. 
+         But the results will be normalized to the original image size.
+
+280 ASIFT keypoints are detected. 
+extract done.
+ASIFT Done. Running time:1
+Sparse Representation Start.
+Sparse Representation Done. Running time:4
+[09:54:40 10/18/16] INFO  - status 1
+[09:54:40 10/18/16] INFO  -  id:80 path:116.32202,39.898073 name:莲湖池公园(遥感)
+[09:54:40 10/18/16] INFO  -  id:17 path:116.470956,39.92106 name:央视大楼
+[09:54:40 10/18/16] INFO  -  id:78 path:116.380248,39.904719 name:环球财讯中心(遥感)
+[09:54:40 10/18/16] INFO  -  id:27 path:116.326852,39.916398 name:梅地亚中心
+[09:54:40 10/18/16] INFO  -  id:3 path:116.257021,39.911812 name:北京国际雕塑公园
+[09:54:40 10/18/16] INFO  -  id:65 path:116.41537,39.962797 name:地坛体育馆(遥感)
+[09:54:40 10/18/16] INFO  -  id:53 path:116.257021,39.911812 name:北京国际雕塑公园(遥感)
+[09:54:40 10/18/16] INFO  -  id:91 path:116.399905,39.911241 name:人民大会堂(遥感)
+[09:54:40 10/18/16] INFO  -  id:74 path:116.478911,39.93516 name:朝阳体育馆(遥感)
+[09:54:40 10/18/16] INFO  -  id:12 path:116.39669,40.002411 name:国家体育馆
+[09:54:41 10/18/16] INFO  - RetrieveServer ## id=c440eab020974eb2#pi=1#pn=10#word=莲湖池公园(遥感)#
+[09:54:41 10/18/16] INFO  - status 1
+[09:54:50 10/18/16] INFO  - RetrieveServer ## id=a1f5ab9c4e914101#pi=1#pn=10#word=莲湖池公园(遥感)#
+[09:54:50 10/18/16] INFO  - status 1
+[09:54:51 10/18/16] INFO  - RetrieveServer ## id=96bec3ba346940fc#pi=1#pn=10#word=央视大楼#
+[09:54:51 10/18/16] INFO  - status 1
+[09:54:51 10/18/16] INFO  -  id:1230 path:/opt/tomcat/webapps/targetreg/admindata/remote/67_央视大楼(遥感)/ name:67_1.jpg
+[09:54:51 10/18/16] INFO  -  id:1231 path:/opt/tomcat/webapps/targetreg/admindata/remote/67_央视大楼(遥感)/ name:67_2.jpg
+[09:54:51 10/18/16] INFO  -  id:1232 path:/opt/tomcat/webapps/targetreg/admindata/remote/67_央视大楼(遥感)/ name:67_3.jpg
+[09:54:51 10/18/16] INFO  -  id:1233 path:/opt/tomcat/webapps/targetreg/admindata/remote/67_央视大楼(遥感)/ name:67_4.jpg
+[09:54:51 10/18/16] INFO  -  id:4726 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_10.jpg
+[09:54:51 10/18/16] INFO  -  id:4727 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_11.jpg
+[09:54:51 10/18/16] INFO  -  id:4728 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_12.jpg
+[09:54:51 10/18/16] INFO  -  id:4729 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_13.jpg
+[09:54:51 10/18/16] INFO  -  id:4730 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_14.jpg
+[09:54:51 10/18/16] INFO  -  id:4731 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_16.jpg
+[09:54:51 10/18/16] INFO  -  id:4732 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_17.jpg
+[09:54:51 10/18/16] INFO  -  id:4733 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_2.jpg
+[09:54:51 10/18/16] INFO  -  id:4734 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_3.jpg
+[09:54:51 10/18/16] INFO  -  id:4735 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_4.jpg
+[09:54:52 10/18/16] INFO  - RetrieveServer ## id=b8152688f78a4179#pi=1#pn=10#word=环球财讯中心(遥感)#
+[09:54:52 10/18/16] INFO  - status 1
+[09:54:52 10/18/16] INFO  -  id:1280 path:/opt/tomcat/webapps/targetreg/admindata/remote/78_环球财讯中心(遥感)/ name:78_1.jpg
+[09:54:52 10/18/16] INFO  -  id:1281 path:/opt/tomcat/webapps/targetreg/admindata/remote/78_环球财讯中心(遥感)/ name:78_2.jpg
+[09:54:52 10/18/16] INFO  -  id:1282 path:/opt/tomcat/webapps/targetreg/admindata/remote/78_环球财讯中心(遥感)/ name:78_3.jpg
+[09:54:52 10/18/16] INFO  -  id:1283 path:/opt/tomcat/webapps/targetreg/admindata/remote/78_环球财讯中心(遥感)/ name:78_4.jpg
+[09:54:52 10/18/16] INFO  -  id:1284 path:/opt/tomcat/webapps/targetreg/admindata/remote/78_环球财讯中心(遥感)/ name:78_5.jpg
+[09:54:52 10/18/16] INFO  -  id:4935 path:/opt/tomcat/webapps/targetreg/admindata/photo/28_环球财讯中心/ name:28_1.jpg
+[09:54:52 10/18/16] INFO  -  id:4936 path:/opt/tomcat/webapps/targetreg/admindata/photo/28_环球财讯中心/ name:28_10.jpg
+[09:54:52 10/18/16] INFO  -  id:4937 path:/opt/tomcat/webapps/targetreg/admindata/photo/28_环球财讯中心/ name:28_11.jpg
+[09:54:52 10/18/16] INFO  -  id:4938 path:/opt/tomcat/webapps/targetreg/admindata/photo/28_环球财讯中心/ name:28_2.jpg
+[09:54:52 10/18/16] INFO  -  id:4939 path:/opt/tomcat/webapps/targetreg/admindata/photo/28_环球财讯中心/ name:28_3.jpg
+[09:54:52 10/18/16] INFO  -  id:4940 path:/opt/tomcat/webapps/targetreg/admindata/photo/28_环球财讯中心/ name:28_4.jpg
+[09:54:52 10/18/16] INFO  -  id:4941 path:/opt/tomcat/webapps/targetreg/admindata/photo/28_环球财讯中心/ name:28_5.JPG
+[09:54:52 10/18/16] INFO  -  id:4942 path:/opt/tomcat/webapps/targetreg/admindata/photo/28_环球财讯中心/ name:28_6.jpg
+[09:54:52 10/18/16] INFO  -  id:4943 path:/opt/tomcat/webapps/targetreg/admindata/photo/28_环球财讯中心/ name:28_7.jpg
+[09:54:52 10/18/16] INFO  -  id:4944 path:/opt/tomcat/webapps/targetreg/admindata/photo/28_环球财讯中心/ name:28_8.jpg
+[09:54:53 10/18/16] INFO  - RetrieveServer ## id=a0fb55b250ac4ebb#pi=1#pn=10#word=央视大楼#
+[09:54:53 10/18/16] INFO  - status 1
+[09:54:53 10/18/16] INFO  -  id:1230 path:/opt/tomcat/webapps/targetreg/admindata/remote/67_央视大楼(遥感)/ name:67_1.jpg
+[09:54:53 10/18/16] INFO  -  id:1231 path:/opt/tomcat/webapps/targetreg/admindata/remote/67_央视大楼(遥感)/ name:67_2.jpg
+[09:54:53 10/18/16] INFO  -  id:1232 path:/opt/tomcat/webapps/targetreg/admindata/remote/67_央视大楼(遥感)/ name:67_3.jpg
+[09:54:53 10/18/16] INFO  -  id:1233 path:/opt/tomcat/webapps/targetreg/admindata/remote/67_央视大楼(遥感)/ name:67_4.jpg
+[09:54:53 10/18/16] INFO  -  id:4726 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_10.jpg
+[09:54:53 10/18/16] INFO  -  id:4727 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_11.jpg
+[09:54:53 10/18/16] INFO  -  id:4728 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_12.jpg
+[09:54:53 10/18/16] INFO  -  id:4729 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_13.jpg
+[09:54:53 10/18/16] INFO  -  id:4730 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_14.jpg
+[09:54:53 10/18/16] INFO  -  id:4731 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_16.jpg
+[09:54:53 10/18/16] INFO  -  id:4732 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_17.jpg
+[09:54:53 10/18/16] INFO  -  id:4733 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_2.jpg
+[09:54:53 10/18/16] INFO  -  id:4734 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_3.jpg
+[09:54:53 10/18/16] INFO  -  id:4735 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_4.jpg
+[09:54:56 10/18/16] INFO  - RetrieveServer ## id=ea8cc9d1c2d5440d#pi=1#pn=10#word=莲湖池公园(遥感)#
+[09:54:56 10/18/16] INFO  - status 1
+[09:55:04 10/18/16] INFO  - RetrieveServer ## id=332277e2ef67477d#pi=1#pn=10#word=环球财讯中心(遥感)#
+[09:55:04 10/18/16] INFO  - status 1
+[09:55:04 10/18/16] INFO  -  id:1280 path:/opt/tomcat/webapps/targetreg/admindata/remote/78_环球财讯中心(遥感)/ name:78_1.jpg
+[09:55:04 10/18/16] INFO  -  id:1281 path:/opt/tomcat/webapps/targetreg/admindata/remote/78_环球财讯中心(遥感)/ name:78_2.jpg
+[09:55:04 10/18/16] INFO  -  id:1282 path:/opt/tomcat/webapps/targetreg/admindata/remote/78_环球财讯中心(遥感)/ name:78_3.jpg
+[09:55:04 10/18/16] INFO  -  id:1283 path:/opt/tomcat/webapps/targetreg/admindata/remote/78_环球财讯中心(遥感)/ name:78_4.jpg
+[09:55:04 10/18/16] INFO  -  id:1284 path:/opt/tomcat/webapps/targetreg/admindata/remote/78_环球财讯中心(遥感)/ name:78_5.jpg
+[09:55:04 10/18/16] INFO  -  id:4935 path:/opt/tomcat/webapps/targetreg/admindata/photo/28_环球财讯中心/ name:28_1.jpg
+[09:55:04 10/18/16] INFO  -  id:4936 path:/opt/tomcat/webapps/targetreg/admindata/photo/28_环球财讯中心/ name:28_10.jpg
+[09:55:04 10/18/16] INFO  -  id:4937 path:/opt/tomcat/webapps/targetreg/admindata/photo/28_环球财讯中心/ name:28_11.jpg
+[09:55:04 10/18/16] INFO  -  id:4938 path:/opt/tomcat/webapps/targetreg/admindata/photo/28_环球财讯中心/ name:28_2.jpg
+[09:55:04 10/18/16] INFO  -  id:4939 path:/opt/tomcat/webapps/targetreg/admindata/photo/28_环球财讯中心/ name:28_3.jpg
+[09:55:04 10/18/16] INFO  -  id:4940 path:/opt/tomcat/webapps/targetreg/admindata/photo/28_环球财讯中心/ name:28_4.jpg
+[09:55:04 10/18/16] INFO  -  id:4941 path:/opt/tomcat/webapps/targetreg/admindata/photo/28_环球财讯中心/ name:28_5.JPG
+[09:55:04 10/18/16] INFO  -  id:4942 path:/opt/tomcat/webapps/targetreg/admindata/photo/28_环球财讯中心/ name:28_6.jpg
+[09:55:04 10/18/16] INFO  -  id:4943 path:/opt/tomcat/webapps/targetreg/admindata/photo/28_环球财讯中心/ name:28_7.jpg
+[09:55:04 10/18/16] INFO  -  id:4944 path:/opt/tomcat/webapps/targetreg/admindata/photo/28_环球财讯中心/ name:28_8.jpg
+[09:55:23 10/18/16] INFO  - RetrieveServer ## featureurl=/opt/tomcat/webapps/targetreg/userupload/6506b57fad674e43a9a0146523fd5846_cap.csv#height=45#id=2a2c61894d78426f#purl=/opt/tomcat/webapps/targetreg/userupload/6506b57fad674e43a9a0146523fd5846.jpg#saveurl=/opt/tomcat/webapps/targetreg/userupload/6506b57fad674e43a9a0146523fd5846_cap.jpg#upleftx=530#uplefty=355#width=71#
+imgwidth is 1200, imgheight is 674
+width is 141height is 75upleftx is 1052uplefty is 593
+ASIFT Start.
+Feature Save URL ## /opt/tomcat/webapps/targetreg/userupload/6506b57fad674e43a9a0146523fd5846_cap.csv
+Extract Features From:/opt/tomcat/webapps/targetreg/userupload/6506b57fad674e43a9a0146523fd5846_cap.jpg
+Processing. 
+image heigh : 75
+image width : 141
+image band  : 3
+141 ASIFT keypoints are detected. 
+extract done.
+ASIFT Done. Running time:0
+Sparse Representation Start.
+Sparse Representation Done. Running time:3
+[09:55:26 10/18/16] INFO  - status 1
+[09:55:26 10/18/16] INFO  -  id:59 path:116.39548,39.932907 name:北海公园(遥感)
+[09:55:26 10/18/16] INFO  -  id:71 path:116.448842,39.938059 name:工人体育馆(遥感)
+[09:55:26 10/18/16] INFO  -  id:80 path:116.32202,39.898073 name:莲湖池公园(遥感)
+[09:55:26 10/18/16] INFO  -  id:53 path:116.257021,39.911812 name:北京国际雕塑公园(遥感)
+[09:55:26 10/18/16] INFO  -  id:50 path:116.433738,39.90981 name:北京站
+[09:55:26 10/18/16] INFO  -  id:19 path:116.400654,40.014247 name:奥林匹克公园瞭望塔
+[09:55:26 10/18/16] INFO  -  id:69 path:116.400654,40.014247 name:奥林匹克公园瞭望塔(遥感)
+[09:55:26 10/18/16] INFO  -  id:82 path:116.388222,39.880236 name:陶然亭公园(遥感)
+[09:55:26 10/18/16] INFO  -  id:57 path:116.346349,39.95307 name:北京海洋馆(遥感)
+[09:55:26 10/18/16] INFO  -  id:47 path:116.416747,39.886653 name:天坛
+[09:55:26 10/18/16] INFO  - RetrieveServer ## id=f1697ad51d2f484d#pi=1#pn=10#word=北海公园(遥感)#
+[09:55:26 10/18/16] INFO  - status 1
+[09:55:26 10/18/16] INFO  -  id:1185 path:/opt/tomcat/webapps/targetreg/admindata/remote/59_北海公园(遥感)/ name:59_1.jpg
+[09:55:26 10/18/16] INFO  -  id:1186 path:/opt/tomcat/webapps/targetreg/admindata/remote/59_北海公园(遥感)/ name:59_2.jpg
+[09:55:26 10/18/16] INFO  -  id:1187 path:/opt/tomcat/webapps/targetreg/admindata/remote/59_北海公园(遥感)/ name:59_3.jpg
+[09:55:26 10/18/16] INFO  -  id:1188 path:/opt/tomcat/webapps/targetreg/admindata/remote/59_北海公园(遥感)/ name:59_4.jpg
+[09:55:26 10/18/16] INFO  -  id:5563 path:/opt/tomcat/webapps/targetreg/admindata/photo/9_北海公园/ name:9_1.jpg
+[09:55:26 10/18/16] INFO  -  id:5564 path:/opt/tomcat/webapps/targetreg/admindata/photo/9_北海公园/ name:9_10.jpg
+[09:55:26 10/18/16] INFO  -  id:5565 path:/opt/tomcat/webapps/targetreg/admindata/photo/9_北海公园/ name:9_11.jpg
+[09:55:26 10/18/16] INFO  -  id:5566 path:/opt/tomcat/webapps/targetreg/admindata/photo/9_北海公园/ name:9_12.jpg
+[09:55:26 10/18/16] INFO  -  id:5567 path:/opt/tomcat/webapps/targetreg/admindata/photo/9_北海公园/ name:9_13.jpg
+[09:55:26 10/18/16] INFO  -  id:5568 path:/opt/tomcat/webapps/targetreg/admindata/photo/9_北海公园/ name:9_14.jpg
+[09:55:26 10/18/16] INFO  -  id:5569 path:/opt/tomcat/webapps/targetreg/admindata/photo/9_北海公园/ name:9_15.jpg
+[09:55:26 10/18/16] INFO  -  id:5570 path:/opt/tomcat/webapps/targetreg/admindata/photo/9_北海公园/ name:9_16.jpg
+[09:55:26 10/18/16] INFO  -  id:5571 path:/opt/tomcat/webapps/targetreg/admindata/photo/9_北海公园/ name:9_17.jpg
+[09:55:26 10/18/16] INFO  -  id:5572 path:/opt/tomcat/webapps/targetreg/admindata/photo/9_北海公园/ name:9_18.jpg
+[09:55:37 10/18/16] INFO  - RetrieveServer ## featureurl=/opt/tomcat/webapps/targetreg/userupload/6506b57fad674e43a9a0146523fd5846_cap.csv#height=371#id=4c3957f6ccde46f7#purl=/opt/tomcat/webapps/targetreg/userupload/6506b57fad674e43a9a0146523fd5846.jpg#saveurl=/opt/tomcat/webapps/targetreg/userupload/6506b57fad674e43a9a0146523fd5846_cap.jpg#upleftx=169#uplefty=0#width=399#
+imgwidth is 1200, imgheight is 674
+width is 792height is 620upleftx is 335uplefty is 0
+ASIFT Start.
+Feature Save URL ## /opt/tomcat/webapps/targetreg/userupload/6506b57fad674e43a9a0146523fd5846_cap.csv
+Extract Features From:/opt/tomcat/webapps/targetreg/userupload/6506b57fad674e43a9a0146523fd5846_cap.jpg
+Processing. 
+image heigh : 620
+image width : 792
+image band  : 3
+WARNING: The input images are resized to 200x156 for ASIFT. 
+         But the results will be normalized to the original image size.
+
+320 ASIFT keypoints are detected. 
+extract done.
+ASIFT Done. Running time:0
+Sparse Representation Start.
+Sparse Representation Done. Running time:6
+[09:55:43 10/18/16] INFO  - status 1
+[09:55:43 10/18/16] INFO  -  id:80 path:116.32202,39.898073 name:莲湖池公园(遥感)
+[09:55:43 10/18/16] INFO  -  id:17 path:116.470956,39.92106 name:央视大楼
+[09:55:43 10/18/16] INFO  -  id:74 path:116.478911,39.93516 name:朝阳体育馆(遥感)
+[09:55:43 10/18/16] INFO  -  id:78 path:116.380248,39.904719 name:环球财讯中心(遥感)
+[09:55:43 10/18/16] INFO  -  id:53 path:116.257021,39.911812 name:北京国际雕塑公园(遥感)
+[09:55:43 10/18/16] INFO  -  id:91 path:116.399905,39.911241 name:人民大会堂(遥感)
+[09:55:43 10/18/16] INFO  -  id:27 path:116.326852,39.916398 name:梅地亚中心
+[09:55:43 10/18/16] INFO  -  id:47 path:116.416747,39.886653 name:天坛
+[09:55:43 10/18/16] INFO  -  id:50 path:116.433738,39.90981 name:北京站
+[09:55:43 10/18/16] INFO  -  id:3 path:116.257021,39.911812 name:北京国际雕塑公园
+[09:55:43 10/18/16] INFO  - RetrieveServer ## id=1c6b30fed7e147d2#pi=1#pn=10#word=莲湖池公园(遥感)#
+[09:55:43 10/18/16] INFO  - status 1
+[09:55:47 10/18/16] INFO  - RetrieveServer ## id=19f19a32686342b9#pi=1#pn=10#word=莲湖池公园(遥感)#
+[09:55:47 10/18/16] INFO  - status 1
+[09:55:48 10/18/16] INFO  - RetrieveServer ## id=e5d2646fd13e4ddc#pi=1#pn=10#word=莲湖池公园(遥感)#
+[09:55:48 10/18/16] INFO  - status 1
+[09:55:50 10/18/16] INFO  - RetrieveServer ## id=9f481643144442eb#pi=1#pn=10#word=央视大楼#
+[09:55:50 10/18/16] INFO  - status 1
+[09:55:50 10/18/16] INFO  -  id:1230 path:/opt/tomcat/webapps/targetreg/admindata/remote/67_央视大楼(遥感)/ name:67_1.jpg
+[09:55:50 10/18/16] INFO  -  id:1231 path:/opt/tomcat/webapps/targetreg/admindata/remote/67_央视大楼(遥感)/ name:67_2.jpg
+[09:55:50 10/18/16] INFO  -  id:1232 path:/opt/tomcat/webapps/targetreg/admindata/remote/67_央视大楼(遥感)/ name:67_3.jpg
+[09:55:50 10/18/16] INFO  -  id:1233 path:/opt/tomcat/webapps/targetreg/admindata/remote/67_央视大楼(遥感)/ name:67_4.jpg
+[09:55:50 10/18/16] INFO  -  id:4726 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_10.jpg
+[09:55:50 10/18/16] INFO  -  id:4727 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_11.jpg
+[09:55:50 10/18/16] INFO  -  id:4728 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_12.jpg
+[09:55:50 10/18/16] INFO  -  id:4729 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_13.jpg
+[09:55:50 10/18/16] INFO  -  id:4730 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_14.jpg
+[09:55:50 10/18/16] INFO  -  id:4731 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_16.jpg
+[09:55:50 10/18/16] INFO  -  id:4732 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_17.jpg
+[09:55:50 10/18/16] INFO  -  id:4733 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_2.jpg
+[09:55:50 10/18/16] INFO  -  id:4734 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_3.jpg
+[09:55:50 10/18/16] INFO  -  id:4735 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_4.jpg
+[09:55:51 10/18/16] INFO  - RetrieveServer ## id=f647957013dd419b#pi=1#pn=10#word=莲湖池公园(遥感)#
+[09:55:51 10/18/16] INFO  - status 1
+[09:55:53 10/18/16] INFO  - RetrieveServer ## id=3af31bd5f0a1446c#pi=1#pn=10#word=朝阳体育馆(遥感)#
+[09:55:53 10/18/16] INFO  - status 1
+[09:55:53 10/18/16] INFO  -  id:1265 path:/opt/tomcat/webapps/targetreg/admindata/remote/74_朝阳体育馆(遥感)/ name:74_1.jpg
+[09:55:53 10/18/16] INFO  -  id:1266 path:/opt/tomcat/webapps/targetreg/admindata/remote/74_朝阳体育馆(遥感)/ name:74_2.jpg
+[09:55:53 10/18/16] INFO  -  id:1267 path:/opt/tomcat/webapps/targetreg/admindata/remote/74_朝阳体育馆(遥感)/ name:74_3.jpg
+[09:55:53 10/18/16] INFO  -  id:1268 path:/opt/tomcat/webapps/targetreg/admindata/remote/74_朝阳体育馆(遥感)/ name:74_4.jpg
+[09:55:53 10/18/16] INFO  -  id:1269 path:/opt/tomcat/webapps/targetreg/admindata/remote/74_朝阳体育馆(遥感)/ name:74_5.jpg
+[09:55:53 10/18/16] INFO  -  id:4882 path:/opt/tomcat/webapps/targetreg/admindata/photo/24_朝阳体育馆/ name:24_1.jpg
+[09:55:53 10/18/16] INFO  -  id:4883 path:/opt/tomcat/webapps/targetreg/admindata/photo/24_朝阳体育馆/ name:24_10.jpg
+[09:55:53 10/18/16] INFO  -  id:4884 path:/opt/tomcat/webapps/targetreg/admindata/photo/24_朝阳体育馆/ name:24_11.jpg
+[09:55:53 10/18/16] INFO  -  id:4885 path:/opt/tomcat/webapps/targetreg/admindata/photo/24_朝阳体育馆/ name:24_12.jpg
+[09:55:53 10/18/16] INFO  -  id:4886 path:/opt/tomcat/webapps/targetreg/admindata/photo/24_朝阳体育馆/ name:24_13.jpg
+[09:55:53 10/18/16] INFO  -  id:4887 path:/opt/tomcat/webapps/targetreg/admindata/photo/24_朝阳体育馆/ name:24_14.jpg
+[09:55:53 10/18/16] INFO  -  id:4888 path:/opt/tomcat/webapps/targetreg/admindata/photo/24_朝阳体育馆/ name:24_15.jpg
+[09:55:53 10/18/16] INFO  -  id:4889 path:/opt/tomcat/webapps/targetreg/admindata/photo/24_朝阳体育馆/ name:24_16.jpg
+[09:55:53 10/18/16] INFO  -  id:4890 path:/opt/tomcat/webapps/targetreg/admindata/photo/24_朝阳体育馆/ name:24_2.jpg
+[09:55:53 10/18/16] INFO  -  id:4891 path:/opt/tomcat/webapps/targetreg/admindata/photo/24_朝阳体育馆/ name:24_3.jpg
+[09:55:55 10/18/16] INFO  - RetrieveServer ## id=0fc613b2e7e14531#pi=1#pn=10#word=央视大楼#
+[09:55:55 10/18/16] INFO  - status 1
+[09:55:55 10/18/16] INFO  -  id:1230 path:/opt/tomcat/webapps/targetreg/admindata/remote/67_央视大楼(遥感)/ name:67_1.jpg
+[09:55:55 10/18/16] INFO  -  id:1231 path:/opt/tomcat/webapps/targetreg/admindata/remote/67_央视大楼(遥感)/ name:67_2.jpg
+[09:55:55 10/18/16] INFO  -  id:1232 path:/opt/tomcat/webapps/targetreg/admindata/remote/67_央视大楼(遥感)/ name:67_3.jpg
+[09:55:55 10/18/16] INFO  -  id:1233 path:/opt/tomcat/webapps/targetreg/admindata/remote/67_央视大楼(遥感)/ name:67_4.jpg
+[09:55:55 10/18/16] INFO  -  id:4726 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_10.jpg
+[09:55:55 10/18/16] INFO  -  id:4727 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_11.jpg
+[09:55:55 10/18/16] INFO  -  id:4728 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_12.jpg
+[09:55:55 10/18/16] INFO  -  id:4729 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_13.jpg
+[09:55:55 10/18/16] INFO  -  id:4730 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_14.jpg
+[09:55:55 10/18/16] INFO  -  id:4731 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_16.jpg
+[09:55:55 10/18/16] INFO  -  id:4732 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_17.jpg
+[09:55:55 10/18/16] INFO  -  id:4733 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_2.jpg
+[09:55:55 10/18/16] INFO  -  id:4734 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_3.jpg
+[09:55:55 10/18/16] INFO  -  id:4735 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_4.jpg
+[09:55:57 10/18/16] INFO  - RetrieveServer ## id=cb44878462594336#pi=1#pn=10#word=朝阳体育馆(遥感)#
+[09:55:57 10/18/16] INFO  - status 1
+[09:55:57 10/18/16] INFO  -  id:1265 path:/opt/tomcat/webapps/targetreg/admindata/remote/74_朝阳体育馆(遥感)/ name:74_1.jpg
+[09:55:57 10/18/16] INFO  -  id:1266 path:/opt/tomcat/webapps/targetreg/admindata/remote/74_朝阳体育馆(遥感)/ name:74_2.jpg
+[09:55:57 10/18/16] INFO  -  id:1267 path:/opt/tomcat/webapps/targetreg/admindata/remote/74_朝阳体育馆(遥感)/ name:74_3.jpg
+[09:55:57 10/18/16] INFO  -  id:1268 path:/opt/tomcat/webapps/targetreg/admindata/remote/74_朝阳体育馆(遥感)/ name:74_4.jpg
+[09:55:57 10/18/16] INFO  -  id:1269 path:/opt/tomcat/webapps/targetreg/admindata/remote/74_朝阳体育馆(遥感)/ name:74_5.jpg
+[09:55:57 10/18/16] INFO  -  id:4882 path:/opt/tomcat/webapps/targetreg/admindata/photo/24_朝阳体育馆/ name:24_1.jpg
+[09:55:57 10/18/16] INFO  -  id:4883 path:/opt/tomcat/webapps/targetreg/admindata/photo/24_朝阳体育馆/ name:24_10.jpg
+[09:55:57 10/18/16] INFO  -  id:4884 path:/opt/tomcat/webapps/targetreg/admindata/photo/24_朝阳体育馆/ name:24_11.jpg
+[09:55:57 10/18/16] INFO  -  id:4885 path:/opt/tomcat/webapps/targetreg/admindata/photo/24_朝阳体育馆/ name:24_12.jpg
+[09:55:57 10/18/16] INFO  -  id:4886 path:/opt/tomcat/webapps/targetreg/admindata/photo/24_朝阳体育馆/ name:24_13.jpg
+[09:55:57 10/18/16] INFO  -  id:4887 path:/opt/tomcat/webapps/targetreg/admindata/photo/24_朝阳体育馆/ name:24_14.jpg
+[09:55:57 10/18/16] INFO  -  id:4888 path:/opt/tomcat/webapps/targetreg/admindata/photo/24_朝阳体育馆/ name:24_15.jpg
+[09:55:57 10/18/16] INFO  -  id:4889 path:/opt/tomcat/webapps/targetreg/admindata/photo/24_朝阳体育馆/ name:24_16.jpg
+[09:55:57 10/18/16] INFO  -  id:4890 path:/opt/tomcat/webapps/targetreg/admindata/photo/24_朝阳体育馆/ name:24_2.jpg
+[09:55:57 10/18/16] INFO  -  id:4891 path:/opt/tomcat/webapps/targetreg/admindata/photo/24_朝阳体育馆/ name:24_3.jpg
+[09:55:58 10/18/16] INFO  - RetrieveServer ## id=2844f20515ad472d#pi=1#pn=10#word=央视大楼#
+[09:55:58 10/18/16] INFO  - status 1
+[09:55:58 10/18/16] INFO  -  id:1230 path:/opt/tomcat/webapps/targetreg/admindata/remote/67_央视大楼(遥感)/ name:67_1.jpg
+[09:55:58 10/18/16] INFO  -  id:1231 path:/opt/tomcat/webapps/targetreg/admindata/remote/67_央视大楼(遥感)/ name:67_2.jpg
+[09:55:58 10/18/16] INFO  -  id:1232 path:/opt/tomcat/webapps/targetreg/admindata/remote/67_央视大楼(遥感)/ name:67_3.jpg
+[09:55:58 10/18/16] INFO  -  id:1233 path:/opt/tomcat/webapps/targetreg/admindata/remote/67_央视大楼(遥感)/ name:67_4.jpg
+[09:55:58 10/18/16] INFO  -  id:4726 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_10.jpg
+[09:55:58 10/18/16] INFO  -  id:4727 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_11.jpg
+[09:55:58 10/18/16] INFO  -  id:4728 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_12.jpg
+[09:55:58 10/18/16] INFO  -  id:4729 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_13.jpg
+[09:55:58 10/18/16] INFO  -  id:4730 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_14.jpg
+[09:55:58 10/18/16] INFO  -  id:4731 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_16.jpg
+[09:55:58 10/18/16] INFO  -  id:4732 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_17.jpg
+[09:55:58 10/18/16] INFO  -  id:4733 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_2.jpg
+[09:55:58 10/18/16] INFO  -  id:4734 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_3.jpg
+[09:55:58 10/18/16] INFO  -  id:4735 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_4.jpg
+[09:55:59 10/18/16] INFO  - RetrieveServer ## id=c47cbad3a0c84dc5#pi=1#pn=10#word=莲湖池公园(遥感)#
+[09:55:59 10/18/16] INFO  - status 1
+[09:56:00 10/18/16] INFO  - RetrieveServer ## id=73e7422c661742b9#pi=1#pn=10#word=央视大楼#
+[09:56:00 10/18/16] INFO  - status 1
+[09:56:00 10/18/16] INFO  -  id:1230 path:/opt/tomcat/webapps/targetreg/admindata/remote/67_央视大楼(遥感)/ name:67_1.jpg
+[09:56:00 10/18/16] INFO  -  id:1231 path:/opt/tomcat/webapps/targetreg/admindata/remote/67_央视大楼(遥感)/ name:67_2.jpg
+[09:56:00 10/18/16] INFO  -  id:1232 path:/opt/tomcat/webapps/targetreg/admindata/remote/67_央视大楼(遥感)/ name:67_3.jpg
+[09:56:00 10/18/16] INFO  -  id:1233 path:/opt/tomcat/webapps/targetreg/admindata/remote/67_央视大楼(遥感)/ name:67_4.jpg
+[09:56:00 10/18/16] INFO  -  id:4726 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_10.jpg
+[09:56:00 10/18/16] INFO  -  id:4727 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_11.jpg
+[09:56:00 10/18/16] INFO  -  id:4728 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_12.jpg
+[09:56:00 10/18/16] INFO  -  id:4729 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_13.jpg
+[09:56:00 10/18/16] INFO  -  id:4730 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_14.jpg
+[09:56:00 10/18/16] INFO  -  id:4731 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_16.jpg
+[09:56:00 10/18/16] INFO  -  id:4732 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_17.jpg
+[09:56:00 10/18/16] INFO  -  id:4733 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_2.jpg
+[09:56:00 10/18/16] INFO  -  id:4734 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_3.jpg
+[09:56:00 10/18/16] INFO  -  id:4735 path:/opt/tomcat/webapps/targetreg/admindata/photo/17_央视大楼/ name:17_4.jpg
+[09:56:02 10/18/16] INFO  - RetrieveServer ## id=a1aa482a410940a1#pi=1#pn=10#word=朝阳体育馆(遥感)#
+[09:56:02 10/18/16] INFO  - status 1
+[09:56:02 10/18/16] INFO  -  id:1265 path:/opt/tomcat/webapps/targetreg/admindata/remote/74_朝阳体育馆(遥感)/ name:74_1.jpg
+[09:56:02 10/18/16] INFO  -  id:1266 path:/opt/tomcat/webapps/targetreg/admindata/remote/74_朝阳体育馆(遥感)/ name:74_2.jpg
+[09:56:02 10/18/16] INFO  -  id:1267 path:/opt/tomcat/webapps/targetreg/admindata/remote/74_朝阳体育馆(遥感)/ name:74_3.jpg
+[09:56:02 10/18/16] INFO  -  id:1268 path:/opt/tomcat/webapps/targetreg/admindata/remote/74_朝阳体育馆(遥感)/ name:74_4.jpg
+[09:56:02 10/18/16] INFO  -  id:1269 path:/opt/tomcat/webapps/targetreg/admindata/remote/74_朝阳体育馆(遥感)/ name:74_5.jpg
+[09:56:02 10/18/16] INFO  -  id:4882 path:/opt/tomcat/webapps/targetreg/admindata/photo/24_朝阳体育馆/ name:24_1.jpg
+[09:56:02 10/18/16] INFO  -  id:4883 path:/opt/tomcat/webapps/targetreg/admindata/photo/24_朝阳体育馆/ name:24_10.jpg
+[09:56:02 10/18/16] INFO  -  id:4884 path:/opt/tomcat/webapps/targetreg/admindata/photo/24_朝阳体育馆/ name:24_11.jpg
+[09:56:02 10/18/16] INFO  -  id:4885 path:/opt/tomcat/webapps/targetreg/admindata/photo/24_朝阳体育馆/ name:24_12.jpg
+[09:56:02 10/18/16] INFO  -  id:4886 path:/opt/tomcat/webapps/targetreg/admindata/photo/24_朝阳体育馆/ name:24_13.jpg
+[09:56:02 10/18/16] INFO  -  id:4887 path:/opt/tomcat/webapps/targetreg/admindata/photo/24_朝阳体育馆/ name:24_14.jpg
+[09:56:02 10/18/16] INFO  -  id:4888 path:/opt/tomcat/webapps/targetreg/admindata/photo/24_朝阳体育馆/ name:24_15.jpg
+[09:56:02 10/18/16] INFO  -  id:4889 path:/opt/tomcat/webapps/targetreg/admindata/photo/24_朝阳体育馆/ name:24_16.jpg
+[09:56:02 10/18/16] INFO  -  id:4890 path:/opt/tomcat/webapps/targetreg/admindata/photo/24_朝阳体育馆/ name:24_2.jpg
+[09:56:02 10/18/16] INFO  -  id:4891 path:/opt/tomcat/webapps/targetreg/admindata/photo/24_朝阳体育馆/ name:24_3.jpg
+[09:56:29 10/18/16] INFO  - RetrieveServer ## featureurl=/opt/tomcat/webapps/targetreg/userupload/7fc606e87a514cbcbeecb813d7ffe3f5_cap.csv#height=277#id=481993d389734b74#purl=/opt/tomcat/webapps/targetreg/userupload/7fc606e87a514cbcbeecb813d7ffe3f5.jpg#saveurl=/opt/tomcat/webapps/targetreg/userupload/7fc606e87a514cbcbeecb813d7ffe3f5_cap.jpg#upleftx=0#uplefty=2#width=538#
+imgwidth is 628, imgheight is 450
+width is 559height is 309upleftx is 0uplefty is 2
+ASIFT Start.
+Feature Save URL ## /opt/tomcat/webapps/targetreg/userupload/7fc606e87a514cbcbeecb813d7ffe3f5_cap.csv
+Extract Features From:/opt/tomcat/webapps/targetreg/userupload/7fc606e87a514cbcbeecb813d7ffe3f5_cap.jpg
+Processing. 
+image heigh : 309
+image width : 559
+image band  : 3
+WARNING: The input images are resized to 200x110 for ASIFT. 
+         But the results will be normalized to the original image size.
+
+444 ASIFT keypoints are detected. 
+extract done.
+ASIFT Done. Running time:1
+Sparse Representation Start.
+Sparse Representation Done. Running time:7
+[09:56:37 10/18/16] INFO  - status 1
+[09:56:37 10/18/16] INFO  -  id:16 path:116.403943,39.914929 name:天安门
+[09:56:37 10/18/16] INFO  -  id:30 path:116.32202,39.898073 name:莲湖池公园
+[09:56:37 10/18/16] INFO  -  id:47 path:116.416747,39.886653 name:天坛
+[09:56:37 10/18/16] INFO  -  id:27 path:116.326852,39.916398 name:梅地亚中心
+[09:56:37 10/18/16] INFO  -  id:41 path:116.399905,39.911241 name:人民大会堂
+[09:56:37 10/18/16] INFO  -  id:3 path:116.257021,39.911812 name:北京国际雕塑公园
+[09:56:37 10/18/16] INFO  -  id:10 path:116.400603,39.790777 name:南苑机场
+[09:56:37 10/18/16] INFO  -  id:1 path:116.480304,39.93991 name:凤凰国际传媒中心
+[09:56:37 10/18/16] INFO  -  id:24 path:116.478911,39.93516 name:朝阳体育馆
+[09:56:37 10/18/16] INFO  -  id:50 path:116.433738,39.90981 name:北京站
+[09:56:37 10/18/16] INFO  - RetrieveServer ## id=427ce9c36fd540ed#pi=1#pn=10#word=天安门#
+[09:56:37 10/18/16] INFO  - status 1
+[09:56:37 10/18/16] INFO  -  id:1225 path:/opt/tomcat/webapps/targetreg/admindata/remote/66_天安门(遥感)/ name:66_1.jpg
+[09:56:37 10/18/16] INFO  -  id:1226 path:/opt/tomcat/webapps/targetreg/admindata/remote/66_天安门(遥感)/ name:66_2.jpg
+[09:56:37 10/18/16] INFO  -  id:1227 path:/opt/tomcat/webapps/targetreg/admindata/remote/66_天安门(遥感)/ name:66_3.jpg
+[09:56:37 10/18/16] INFO  -  id:1228 path:/opt/tomcat/webapps/targetreg/admindata/remote/66_天安门(遥感)/ name:66_4.jpg
+[09:56:37 10/18/16] INFO  -  id:1229 path:/opt/tomcat/webapps/targetreg/admindata/remote/66_天安门(遥感)/ name:66_5.jpg
+[09:56:37 10/18/16] INFO  -  id:4708 path:/opt/tomcat/webapps/targetreg/admindata/photo/16_天安门/ name:16_1.jpg
+[09:56:37 10/18/16] INFO  -  id:4709 path:/opt/tomcat/webapps/targetreg/admindata/photo/16_天安门/ name:16_10.jpg
+[09:56:37 10/18/16] INFO  -  id:4710 path:/opt/tomcat/webapps/targetreg/admindata/photo/16_天安门/ name:16_11.jpg
+[09:56:37 10/18/16] INFO  -  id:4711 path:/opt/tomcat/webapps/targetreg/admindata/photo/16_天安门/ name:16_12.jpg
+[09:56:37 10/18/16] INFO  -  id:4712 path:/opt/tomcat/webapps/targetreg/admindata/photo/16_天安门/ name:16_13.jpg
+[09:56:37 10/18/16] INFO  -  id:4713 path:/opt/tomcat/webapps/targetreg/admindata/photo/16_天安门/ name:16_14.jpg
+[09:56:37 10/18/16] INFO  -  id:4714 path:/opt/tomcat/webapps/targetreg/admindata/photo/16_天安门/ name:16_15.jpg
+[09:56:37 10/18/16] INFO  -  id:4715 path:/opt/tomcat/webapps/targetreg/admindata/photo/16_天安门/ name:16_16.jpg
+[09:56:37 10/18/16] INFO  -  id:4716 path:/opt/tomcat/webapps/targetreg/admindata/photo/16_天安门/ name:16_17.jpg
+[09:56:37 10/18/16] INFO  -  id:4717 path:/opt/tomcat/webapps/targetreg/admindata/photo/16_天安门/ name:16_18.jpg
+[09:57:26 10/18/16] INFO  - RetrieveServer ## featureurl=/opt/tomcat/webapps/targetreg/userupload/ffe4e0d0ff694f0698617bec0ffbb99d_cap.csv#height=280#id=9c9b675f1bba4b99#purl=/opt/tomcat/webapps/targetreg/userupload/ffe4e0d0ff694f0698617bec0ffbb99d.jpg#saveurl=/opt/tomcat/webapps/targetreg/userupload/ffe4e0d0ff694f0698617bec0ffbb99d_cap.jpg#upleftx=0#uplefty=0#width=543#
+imgwidth is 628, imgheight is 450
+width is 564height is 312upleftx is 0uplefty is 0
+ASIFT Start.
+Feature Save URL ## /opt/tomcat/webapps/targetreg/userupload/ffe4e0d0ff694f0698617bec0ffbb99d_cap.csv
+Extract Features From:/opt/tomcat/webapps/targetreg/userupload/ffe4e0d0ff694f0698617bec0ffbb99d_cap.jpg
+Processing. 
+image heigh : 312
+image width : 564
+image band  : 3
+WARNING: The input images are resized to 200x110 for ASIFT. 
+         But the results will be normalized to the original image size.
+
+439 ASIFT keypoints are detected. 
+extract done.
+ASIFT Done. Running time:1
+Sparse Representation Start.
+Sparse Representation Done. Running time:7
+[09:57:34 10/18/16] INFO  - status 1
+[09:57:34 10/18/16] INFO  -  id:16 path:116.403943,39.914929 name:天安门
+[09:57:34 10/18/16] INFO  -  id:30 path:116.32202,39.898073 name:莲湖池公园
+[09:57:34 10/18/16] INFO  -  id:27 path:116.326852,39.916398 name:梅地亚中心
+[09:57:34 10/18/16] INFO  -  id:47 path:116.416747,39.886653 name:天坛
+[09:57:34 10/18/16] INFO  -  id:10 path:116.400603,39.790777 name:南苑机场
+[09:57:34 10/18/16] INFO  -  id:24 path:116.478911,39.93516 name:朝阳体育馆
+[09:57:34 10/18/16] INFO  -  id:3 path:116.257021,39.911812 name:北京国际雕塑公园
+[09:57:34 10/18/16] INFO  -  id:18 path:116.407455,39.99143 name:奥体中心体育场
+[09:57:34 10/18/16] INFO  -  id:41 path:116.399905,39.911241 name:人民大会堂
+[09:57:34 10/18/16] INFO  -  id:1 path:116.480304,39.93991 name:凤凰国际传媒中心
+[09:57:34 10/18/16] INFO  - RetrieveServer ## id=5c8d2abb8ad8444a#pi=1#pn=10#word=天安门#
+[09:57:34 10/18/16] INFO  - status 1
+[09:57:34 10/18/16] INFO  -  id:1225 path:/opt/tomcat/webapps/targetreg/admindata/remote/66_天安门(遥感)/ name:66_1.jpg
+[09:57:34 10/18/16] INFO  -  id:1226 path:/opt/tomcat/webapps/targetreg/admindata/remote/66_天安门(遥感)/ name:66_2.jpg
+[09:57:34 10/18/16] INFO  -  id:1227 path:/opt/tomcat/webapps/targetreg/admindata/remote/66_天安门(遥感)/ name:66_3.jpg
+[09:57:34 10/18/16] INFO  -  id:1228 path:/opt/tomcat/webapps/targetreg/admindata/remote/66_天安门(遥感)/ name:66_4.jpg
+[09:57:34 10/18/16] INFO  -  id:1229 path:/opt/tomcat/webapps/targetreg/admindata/remote/66_天安门(遥感)/ name:66_5.jpg
+[09:57:34 10/18/16] INFO  -  id:4708 path:/opt/tomcat/webapps/targetreg/admindata/photo/16_天安门/ name:16_1.jpg
+[09:57:34 10/18/16] INFO  -  id:4709 path:/opt/tomcat/webapps/targetreg/admindata/photo/16_天安门/ name:16_10.jpg
+[09:57:34 10/18/16] INFO  -  id:4710 path:/opt/tomcat/webapps/targetreg/admindata/photo/16_天安门/ name:16_11.jpg
+[09:57:34 10/18/16] INFO  -  id:4711 path:/opt/tomcat/webapps/targetreg/admindata/photo/16_天安门/ name:16_12.jpg
+[09:57:34 10/18/16] INFO  -  id:4712 path:/opt/tomcat/webapps/targetreg/admindata/photo/16_天安门/ name:16_13.jpg
+[09:57:34 10/18/16] INFO  -  id:4713 path:/opt/tomcat/webapps/targetreg/admindata/photo/16_天安门/ name:16_14.jpg
+[09:57:34 10/18/16] INFO  -  id:4714 path:/opt/tomcat/webapps/targetreg/admindata/photo/16_天安门/ name:16_15.jpg
+[09:57:34 10/18/16] INFO  -  id:4715 path:/opt/tomcat/webapps/targetreg/admindata/photo/16_天安门/ name:16_16.jpg
+[09:57:34 10/18/16] INFO  -  id:4716 path:/opt/tomcat/webapps/targetreg/admindata/photo/16_天安门/ name:16_17.jpg
+[09:57:34 10/18/16] INFO  -  id:4717 path:/opt/tomcat/webapps/targetreg/admindata/photo/16_天安门/ name:16_18.jpg
+[09:58:51 10/18/16] INFO  - RetrieveServer ## featureurl=/opt/tomcat/webapps/targetreg/userupload/0b9543cd852243be989df9b081d10422_cap.csv#height=382#id=19907fea16ca437e#purl=/opt/tomcat/webapps/targetreg/userupload/0b9543cd852243be989df9b081d10422.jpg#saveurl=/opt/tomcat/webapps/targetreg/userupload/0b9543cd852243be989df9b081d10422_cap.jpg#upleftx=54#uplefty=8#width=459#
+imgwidth is 518, imgheight is 457
+width is 393height is 433upleftx is 46uplefty is 9
+ASIFT Start.
+Feature Save URL ## /opt/tomcat/webapps/targetreg/userupload/0b9543cd852243be989df9b081d10422_cap.csv
+Extract Features From:/opt/tomcat/webapps/targetreg/userupload/0b9543cd852243be989df9b081d10422_cap.jpg
+Processing. 
+image heigh : 433
+image width : 393
+image band  : 3
+WARNING: The input images are resized to 200x220 for ASIFT. 
+         But the results will be normalized to the original image size.
+
+623 ASIFT keypoints are detected. 
+extract done.
+ASIFT Done. Running time:0
+Sparse Representation Start.
+Sparse Representation Done. Running time:11
+[09:59:03 10/18/16] INFO  - status 1
+[09:59:03 10/18/16] INFO  -  id:95 path:116.402885,39.999439 name:鸟巢(遥感)
+[09:59:03 10/18/16] INFO  -  id:47 path:116.416747,39.886653 name:天坛
+[09:59:03 10/18/16] INFO  -  id:49 path:116.327767,39.900513 name:北京西站
+[09:59:03 10/18/16] INFO  -  id:3 path:116.257021,39.911812 name:北京国际雕塑公园
+[09:59:03 10/18/16] INFO  -  id:40 path:116.287104,39.917544 name:五棵松体育馆
+[09:59:03 10/18/16] INFO  -  id:55 path:116.381422,40.025989 name:北京奥林匹克网球中心(遥感)
+[09:59:03 10/18/16] INFO  -  id:27 path:116.326852,39.916398 name:梅地亚中心
+[09:59:03 10/18/16] INFO  -  id:4 path:116.270582,40.106889 name:北京大学国际医院
+[09:59:03 10/18/16] INFO  -  id:81 path:116.44008,39.926399 name:银河SOHO(遥感)
+[09:59:03 10/18/16] INFO  -  id:69 path:116.400654,40.014247 name:奥林匹克公园瞭望塔(遥感)
+[09:59:03 10/18/16] INFO  - RetrieveServer ## id=f5633c43bdbe456a#pi=1#pn=10#word=鸟巢(遥感)#
+[09:59:03 10/18/16] INFO  - status 1
+[09:59:03 10/18/16] INFO  -  id:1361 path:/opt/tomcat/webapps/targetreg/admindata/remote/95_鸟巢(遥感)/ name:95_1.jpg
+[09:59:03 10/18/16] INFO  -  id:1362 path:/opt/tomcat/webapps/targetreg/admindata/remote/95_鸟巢(遥感)/ name:95_2.jpg
+[09:59:03 10/18/16] INFO  -  id:1363 path:/opt/tomcat/webapps/targetreg/admindata/remote/95_鸟巢(遥感)/ name:95_3.jpg
+[09:59:03 10/18/16] INFO  -  id:1364 path:/opt/tomcat/webapps/targetreg/admindata/remote/95_鸟巢(遥感)/ name:95_4.jpg
+[09:59:03 10/18/16] INFO  -  id:1365 path:/opt/tomcat/webapps/targetreg/admindata/remote/95_鸟巢(遥感)/ name:95_5.jpg
+[09:59:03 10/18/16] INFO  -  id:5268 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_1.jpg
+[09:59:03 10/18/16] INFO  -  id:5269 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_10.jpg
+[09:59:03 10/18/16] INFO  -  id:5270 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_11.jpg
+[09:59:03 10/18/16] INFO  -  id:5271 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_12.jpg
+[09:59:03 10/18/16] INFO  -  id:5272 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_13.jpg
+[09:59:03 10/18/16] INFO  -  id:5273 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_14.jpg
+[09:59:03 10/18/16] INFO  -  id:5274 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_15.jpg
+[09:59:03 10/18/16] INFO  -  id:5275 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_16.jpg
+[09:59:03 10/18/16] INFO  -  id:5276 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_17.jpg
+[09:59:03 10/18/16] INFO  -  id:5277 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_18.jpg
+[09:59:26 10/18/16] INFO  - RetrieveServer ## featureurl=/opt/tomcat/webapps/targetreg/userupload/078c9a39a12f4d67a7b10e4af398f238_cap.csv#height=284#id=c0e6b2da67624980#purl=/opt/tomcat/webapps/targetreg/userupload/078c9a39a12f4d67a7b10e4af398f238.JPG#saveurl=/opt/tomcat/webapps/targetreg/userupload/078c9a39a12f4d67a7b10e4af398f238_cap.JPG#upleftx=53#uplefty=83#width=409#
+imgwidth is 908, imgheight is 639
+width is 614height is 450upleftx is 79uplefty is 131
+ASIFT Start.
+Feature Save URL ## /opt/tomcat/webapps/targetreg/userupload/078c9a39a12f4d67a7b10e4af398f238_cap.csv
+Extract Features From:/opt/tomcat/webapps/targetreg/userupload/078c9a39a12f4d67a7b10e4af398f238_cap.JPG
+Processing. 
+image heigh : 450
+image width : 614
+image band  : 3
+WARNING: The input images are resized to 200x146 for ASIFT. 
+         But the results will be normalized to the original image size.
+
+410 ASIFT keypoints are detected. 
+extract done.
+ASIFT Done. Running time:1
+Sparse Representation Start.
+Sparse Representation Done. Running time:7
+[09:59:34 10/18/16] INFO  - status 1
+[09:59:34 10/18/16] INFO  -  id:39 path:116.288661,40.078453 name:中科院遥感与数字地球研究所
+[09:59:34 10/18/16] INFO  -  id:59 path:116.39548,39.932907 name:北海公园(遥感)
+[09:59:34 10/18/16] INFO  -  id:82 path:116.388222,39.880236 name:陶然亭公园(遥感)
+[09:59:34 10/18/16] INFO  -  id:99 path:116.327767,39.900513 name:北京西站(遥感)
+[09:59:34 10/18/16] INFO  -  id:23 path:116.486297,40.000851 name:望京soho
+[09:59:34 10/18/16] INFO  -  id:80 path:116.32202,39.898073 name:莲湖池公园(遥感)
+[09:59:34 10/18/16] INFO  -  id:79 path:116.403511,39.923114 name:紫禁城(遥感)
+[09:59:34 10/18/16] INFO  -  id:84 path:116.27487,39.998475 name:颐和园(遥感)
+[09:59:34 10/18/16] INFO  -  id:3 path:116.257021,39.911812 name:北京国际雕塑公园
+[09:59:34 10/18/16] INFO  -  id:20 path:116.387103,40.019668 name:奥林匹克森林公园五环亭
+[09:59:34 10/18/16] INFO  - RetrieveServer ## id=641dc0a99b0c47ff#pi=1#pn=10#word=中科院遥感与数字地球研究所#
+[09:59:34 10/18/16] INFO  - status 1
+[09:59:34 10/18/16] INFO  -  id:1336 path:/opt/tomcat/webapps/targetreg/admindata/remote/89_中科院遥感与数字地球研究所(遥感)/ name:89_1.jpg
+[09:59:34 10/18/16] INFO  -  id:1337 path:/opt/tomcat/webapps/targetreg/admindata/remote/89_中科院遥感与数字地球研究所(遥感)/ name:89_2.jpg
+[09:59:34 10/18/16] INFO  -  id:1338 path:/opt/tomcat/webapps/targetreg/admindata/remote/89_中科院遥感与数字地球研究所(遥感)/ name:89_3.jpg
+[09:59:34 10/18/16] INFO  -  id:1339 path:/opt/tomcat/webapps/targetreg/admindata/remote/89_中科院遥感与数字地球研究所(遥感)/ name:89_4.jpg
+[09:59:34 10/18/16] INFO  -  id:1340 path:/opt/tomcat/webapps/targetreg/admindata/remote/89_中科院遥感与数字地球研究所(遥感)/ name:89_5.jpg
+[09:59:34 10/18/16] INFO  -  id:5096 path:/opt/tomcat/webapps/targetreg/admindata/photo/39_中科院遥感与数字地球研究所/ name:39_1.jpg
+[09:59:34 10/18/16] INFO  -  id:5097 path:/opt/tomcat/webapps/targetreg/admindata/photo/39_中科院遥感与数字地球研究所/ name:39_2.jpg
+[09:59:34 10/18/16] INFO  -  id:5098 path:/opt/tomcat/webapps/targetreg/admindata/photo/39_中科院遥感与数字地球研究所/ name:39_3.jpg
+[09:59:34 10/18/16] INFO  -  id:5099 path:/opt/tomcat/webapps/targetreg/admindata/photo/39_中科院遥感与数字地球研究所/ name:39_4.jpg
+[09:59:34 10/18/16] INFO  -  id:5100 path:/opt/tomcat/webapps/targetreg/admindata/photo/39_中科院遥感与数字地球研究所/ name:39_5.jpg
+[09:59:34 10/18/16] INFO  -  id:5101 path:/opt/tomcat/webapps/targetreg/admindata/photo/39_中科院遥感与数字地球研究所/ name:39_6.jpg
+[09:59:34 10/18/16] INFO  -  id:5102 path:/opt/tomcat/webapps/targetreg/admindata/photo/39_中科院遥感与数字地球研究所/ name:39_7.JPG
+[09:59:44 10/18/16] INFO  - RetrieveServer ## id=ca04b6e793634ea3#pi=1#pn=10#word=北海公园(遥感)#
+[09:59:44 10/18/16] INFO  - status 1
+[09:59:44 10/18/16] INFO  -  id:1185 path:/opt/tomcat/webapps/targetreg/admindata/remote/59_北海公园(遥感)/ name:59_1.jpg
+[09:59:44 10/18/16] INFO  -  id:1186 path:/opt/tomcat/webapps/targetreg/admindata/remote/59_北海公园(遥感)/ name:59_2.jpg
+[09:59:44 10/18/16] INFO  -  id:1187 path:/opt/tomcat/webapps/targetreg/admindata/remote/59_北海公园(遥感)/ name:59_3.jpg
+[09:59:44 10/18/16] INFO  -  id:1188 path:/opt/tomcat/webapps/targetreg/admindata/remote/59_北海公园(遥感)/ name:59_4.jpg
+[09:59:44 10/18/16] INFO  -  id:5563 path:/opt/tomcat/webapps/targetreg/admindata/photo/9_北海公园/ name:9_1.jpg
+[09:59:44 10/18/16] INFO  -  id:5564 path:/opt/tomcat/webapps/targetreg/admindata/photo/9_北海公园/ name:9_10.jpg
+[09:59:44 10/18/16] INFO  -  id:5565 path:/opt/tomcat/webapps/targetreg/admindata/photo/9_北海公园/ name:9_11.jpg
+[09:59:44 10/18/16] INFO  -  id:5566 path:/opt/tomcat/webapps/targetreg/admindata/photo/9_北海公园/ name:9_12.jpg
+[09:59:44 10/18/16] INFO  -  id:5567 path:/opt/tomcat/webapps/targetreg/admindata/photo/9_北海公园/ name:9_13.jpg
+[09:59:44 10/18/16] INFO  -  id:5568 path:/opt/tomcat/webapps/targetreg/admindata/photo/9_北海公园/ name:9_14.jpg
+[09:59:44 10/18/16] INFO  -  id:5569 path:/opt/tomcat/webapps/targetreg/admindata/photo/9_北海公园/ name:9_15.jpg
+[09:59:44 10/18/16] INFO  -  id:5570 path:/opt/tomcat/webapps/targetreg/admindata/photo/9_北海公园/ name:9_16.jpg
+[09:59:44 10/18/16] INFO  -  id:5571 path:/opt/tomcat/webapps/targetreg/admindata/photo/9_北海公园/ name:9_17.jpg
+[09:59:44 10/18/16] INFO  -  id:5572 path:/opt/tomcat/webapps/targetreg/admindata/photo/9_北海公园/ name:9_18.jpg
+[09:59:47 10/18/16] INFO  - RetrieveServer ## id=de4e77b8650f45a1#pi=1#pn=10#word=陶然亭公园(遥感)#
+[09:59:47 10/18/16] INFO  - status 1
+[09:59:47 10/18/16] INFO  -  id:1300 path:/opt/tomcat/webapps/targetreg/admindata/remote/82_陶然亭公园(遥感)/ name:82_1.jpg
+[09:59:47 10/18/16] INFO  -  id:1301 path:/opt/tomcat/webapps/targetreg/admindata/remote/82_陶然亭公园(遥感)/ name:82_2.jpg
+[09:59:47 10/18/16] INFO  -  id:1302 path:/opt/tomcat/webapps/targetreg/admindata/remote/82_陶然亭公园(遥感)/ name:82_3.jpg
+[09:59:47 10/18/16] INFO  -  id:1303 path:/opt/tomcat/webapps/targetreg/admindata/remote/82_陶然亭公园(遥感)/ name:82_4.jpg
+[09:59:47 10/18/16] INFO  -  id:1304 path:/opt/tomcat/webapps/targetreg/admindata/remote/82_陶然亭公园(遥感)/ name:82_5.jpg
+[09:59:47 10/18/16] INFO  -  id:5010 path:/opt/tomcat/webapps/targetreg/admindata/photo/32_陶然亭公园/ name:32_1.jpg
+[09:59:47 10/18/16] INFO  -  id:5011 path:/opt/tomcat/webapps/targetreg/admindata/photo/32_陶然亭公园/ name:32_10.jpg
+[09:59:47 10/18/16] INFO  -  id:5012 path:/opt/tomcat/webapps/targetreg/admindata/photo/32_陶然亭公园/ name:32_11.jpg
+[09:59:47 10/18/16] INFO  -  id:5013 path:/opt/tomcat/webapps/targetreg/admindata/photo/32_陶然亭公园/ name:32_12.jpg
+[09:59:47 10/18/16] INFO  -  id:5014 path:/opt/tomcat/webapps/targetreg/admindata/photo/32_陶然亭公园/ name:32_13.jpg
+[09:59:47 10/18/16] INFO  -  id:5015 path:/opt/tomcat/webapps/targetreg/admindata/photo/32_陶然亭公园/ name:32_14.jpg
+[09:59:47 10/18/16] INFO  -  id:5016 path:/opt/tomcat/webapps/targetreg/admindata/photo/32_陶然亭公园/ name:32_15.jpg
+[09:59:47 10/18/16] INFO  -  id:5017 path:/opt/tomcat/webapps/targetreg/admindata/photo/32_陶然亭公园/ name:32_16.jpg
+[09:59:47 10/18/16] INFO  -  id:5018 path:/opt/tomcat/webapps/targetreg/admindata/photo/32_陶然亭公园/ name:32_17.jpg
+[09:59:47 10/18/16] INFO  -  id:5019 path:/opt/tomcat/webapps/targetreg/admindata/photo/32_陶然亭公园/ name:32_18.jpg
+[09:59:50 10/18/16] INFO  - RetrieveServer ## id=583bdd4b24d340cc#pi=1#pn=10#word=中科院遥感与数字地球研究所#
+[09:59:50 10/18/16] INFO  - status 1
+[09:59:50 10/18/16] INFO  -  id:1336 path:/opt/tomcat/webapps/targetreg/admindata/remote/89_中科院遥感与数字地球研究所(遥感)/ name:89_1.jpg
+[09:59:50 10/18/16] INFO  -  id:1337 path:/opt/tomcat/webapps/targetreg/admindata/remote/89_中科院遥感与数字地球研究所(遥感)/ name:89_2.jpg
+[09:59:50 10/18/16] INFO  -  id:1338 path:/opt/tomcat/webapps/targetreg/admindata/remote/89_中科院遥感与数字地球研究所(遥感)/ name:89_3.jpg
+[09:59:50 10/18/16] INFO  -  id:1339 path:/opt/tomcat/webapps/targetreg/admindata/remote/89_中科院遥感与数字地球研究所(遥感)/ name:89_4.jpg
+[09:59:50 10/18/16] INFO  -  id:1340 path:/opt/tomcat/webapps/targetreg/admindata/remote/89_中科院遥感与数字地球研究所(遥感)/ name:89_5.jpg
+[09:59:50 10/18/16] INFO  -  id:5096 path:/opt/tomcat/webapps/targetreg/admindata/photo/39_中科院遥感与数字地球研究所/ name:39_1.jpg
+[09:59:50 10/18/16] INFO  -  id:5097 path:/opt/tomcat/webapps/targetreg/admindata/photo/39_中科院遥感与数字地球研究所/ name:39_2.jpg
+[09:59:50 10/18/16] INFO  -  id:5098 path:/opt/tomcat/webapps/targetreg/admindata/photo/39_中科院遥感与数字地球研究所/ name:39_3.jpg
+[09:59:50 10/18/16] INFO  -  id:5099 path:/opt/tomcat/webapps/targetreg/admindata/photo/39_中科院遥感与数字地球研究所/ name:39_4.jpg
+[09:59:50 10/18/16] INFO  -  id:5100 path:/opt/tomcat/webapps/targetreg/admindata/photo/39_中科院遥感与数字地球研究所/ name:39_5.jpg
+[09:59:50 10/18/16] INFO  -  id:5101 path:/opt/tomcat/webapps/targetreg/admindata/photo/39_中科院遥感与数字地球研究所/ name:39_6.jpg
+[09:59:50 10/18/16] INFO  -  id:5102 path:/opt/tomcat/webapps/targetreg/admindata/photo/39_中科院遥感与数字地球研究所/ name:39_7.JPG
+[09:59:59 10/18/16] INFO  - RetrieveServer ## id=eefe32f108d545db#pi=1#pn=10#word=水立方#
+[09:59:59 10/18/16] INFO  - status 1
+[09:59:59 10/18/16] INFO  -  id:126 path:116.396767,39.999455 name:水立方
+[09:59:59 10/18/16] INFO  -  id:178 path:116.396767,39.999455 name:水立方(遥感)
+[10:00:00 10/18/16] INFO  - RetrieveServer ## id=d01cc51e4de24151#pi=1#pn=10#word=水立方#
+[10:00:00 10/18/16] INFO  - status 1
+[10:00:00 10/18/16] INFO  -  id:1366 path:/opt/tomcat/webapps/targetreg/admindata/remote/96_水立方(遥感)/ name:96_1.jpg
+[10:00:00 10/18/16] INFO  -  id:1367 path:/opt/tomcat/webapps/targetreg/admindata/remote/96_水立方(遥感)/ name:96_2.jpg
+[10:00:00 10/18/16] INFO  -  id:1368 path:/opt/tomcat/webapps/targetreg/admindata/remote/96_水立方(遥感)/ name:96_3.jpg
+[10:00:00 10/18/16] INFO  -  id:1369 path:/opt/tomcat/webapps/targetreg/admindata/remote/96_水立方(遥感)/ name:96_4.jpg
+[10:00:00 10/18/16] INFO  -  id:1370 path:/opt/tomcat/webapps/targetreg/admindata/remote/96_水立方(遥感)/ name:96_5.jpg
+[10:00:00 10/18/16] INFO  -  id:5322 path:/opt/tomcat/webapps/targetreg/admindata/photo/46_水立方/ name:46_1.jpg
+[10:00:00 10/18/16] INFO  -  id:5323 path:/opt/tomcat/webapps/targetreg/admindata/photo/46_水立方/ name:46_10.jpg
+[10:00:00 10/18/16] INFO  -  id:5324 path:/opt/tomcat/webapps/targetreg/admindata/photo/46_水立方/ name:46_11.jpg
+[10:00:00 10/18/16] INFO  -  id:5325 path:/opt/tomcat/webapps/targetreg/admindata/photo/46_水立方/ name:46_12.jpg
+[10:00:00 10/18/16] INFO  -  id:5326 path:/opt/tomcat/webapps/targetreg/admindata/photo/46_水立方/ name:46_13.jpg
+[10:00:00 10/18/16] INFO  -  id:5327 path:/opt/tomcat/webapps/targetreg/admindata/photo/46_水立方/ name:46_14.jpg
+[10:00:00 10/18/16] INFO  -  id:5328 path:/opt/tomcat/webapps/targetreg/admindata/photo/46_水立方/ name:46_15.jpg
+[10:00:00 10/18/16] INFO  -  id:5329 path:/opt/tomcat/webapps/targetreg/admindata/photo/46_水立方/ name:46_16.jpg
+[10:00:00 10/18/16] INFO  -  id:5330 path:/opt/tomcat/webapps/targetreg/admindata/photo/46_水立方/ name:46_17.jpg
+[10:00:00 10/18/16] INFO  -  id:5331 path:/opt/tomcat/webapps/targetreg/admindata/photo/46_水立方/ name:46_18.jpg
+[10:09:16 10/18/16] INFO  - RetrieveServer ## featureurl=/opt/tomcat/webapps/targetreg/userupload/51f343fa9d4d40f1a329cdd854c6ab0f_cap.csv#height=254#id=826e91bfd4b04184#purl=/opt/tomcat/webapps/targetreg/userupload/51f343fa9d4d40f1a329cdd854c6ab0f.jpg#saveurl=/opt/tomcat/webapps/targetreg/userupload/51f343fa9d4d40f1a329cdd854c6ab0f_cap.jpg#upleftx=26#uplefty=38#width=561#
+imgwidth is 628, imgheight is 450
+width is 583height is 283upleftx is 27uplefty is 42
+ASIFT Start.
+Feature Save URL ## /opt/tomcat/webapps/targetreg/userupload/51f343fa9d4d40f1a329cdd854c6ab0f_cap.csv
+Extract Features From:/opt/tomcat/webapps/targetreg/userupload/51f343fa9d4d40f1a329cdd854c6ab0f_cap.jpg
+Processing. 
+image heigh : 283
+image width : 583
+image band  : 3
+WARNING: The input images are resized to 200x97 for ASIFT. 
+         But the results will be normalized to the original image size.
+
+375 ASIFT keypoints are detected. 
+extract done.
+ASIFT Done. Running time:0
+Sparse Representation Start.
+Sparse Representation Done. Running time:7
+[10:09:23 10/18/16] INFO  - status 1
+[10:09:23 10/18/16] INFO  -  id:16 path:116.403943,39.914929 name:天安门
+[10:09:23 10/18/16] INFO  -  id:47 path:116.416747,39.886653 name:天坛
+[10:09:23 10/18/16] INFO  -  id:27 path:116.326852,39.916398 name:梅地亚中心
+[10:09:23 10/18/16] INFO  -  id:30 path:116.32202,39.898073 name:莲湖池公园
+[10:09:23 10/18/16] INFO  -  id:24 path:116.478911,39.93516 name:朝阳体育馆
+[10:09:23 10/18/16] INFO  -  id:18 path:116.407455,39.99143 name:奥体中心体育场
+[10:09:23 10/18/16] INFO  -  id:10 path:116.400603,39.790777 name:南苑机场
+[10:09:23 10/18/16] INFO  -  id:13 path:116.331897,39.948864 name:国家图书馆
+[10:09:23 10/18/16] INFO  -  id:41 path:116.399905,39.911241 name:人民大会堂
+[10:09:23 10/18/16] INFO  -  id:72 path:116.404928,40.012343 name:中国科技馆(遥感)
+[10:09:23 10/18/16] INFO  - RetrieveServer ## id=a393e1ca9d7f488c#pi=1#pn=10#word=天安门#
+[10:09:23 10/18/16] INFO  - status 1
+[10:09:23 10/18/16] INFO  -  id:1225 path:/opt/tomcat/webapps/targetreg/admindata/remote/66_天安门(遥感)/ name:66_1.jpg
+[10:09:23 10/18/16] INFO  -  id:1226 path:/opt/tomcat/webapps/targetreg/admindata/remote/66_天安门(遥感)/ name:66_2.jpg
+[10:09:23 10/18/16] INFO  -  id:1227 path:/opt/tomcat/webapps/targetreg/admindata/remote/66_天安门(遥感)/ name:66_3.jpg
+[10:09:23 10/18/16] INFO  -  id:1228 path:/opt/tomcat/webapps/targetreg/admindata/remote/66_天安门(遥感)/ name:66_4.jpg
+[10:09:23 10/18/16] INFO  -  id:1229 path:/opt/tomcat/webapps/targetreg/admindata/remote/66_天安门(遥感)/ name:66_5.jpg
+[10:09:23 10/18/16] INFO  -  id:4708 path:/opt/tomcat/webapps/targetreg/admindata/photo/16_天安门/ name:16_1.jpg
+[10:09:23 10/18/16] INFO  -  id:4709 path:/opt/tomcat/webapps/targetreg/admindata/photo/16_天安门/ name:16_10.jpg
+[10:09:23 10/18/16] INFO  -  id:4710 path:/opt/tomcat/webapps/targetreg/admindata/photo/16_天安门/ name:16_11.jpg
+[10:09:23 10/18/16] INFO  -  id:4711 path:/opt/tomcat/webapps/targetreg/admindata/photo/16_天安门/ name:16_12.jpg
+[10:09:23 10/18/16] INFO  -  id:4712 path:/opt/tomcat/webapps/targetreg/admindata/photo/16_天安门/ name:16_13.jpg
+[10:09:23 10/18/16] INFO  -  id:4713 path:/opt/tomcat/webapps/targetreg/admindata/photo/16_天安门/ name:16_14.jpg
+[10:09:23 10/18/16] INFO  -  id:4714 path:/opt/tomcat/webapps/targetreg/admindata/photo/16_天安门/ name:16_15.jpg
+[10:09:23 10/18/16] INFO  -  id:4715 path:/opt/tomcat/webapps/targetreg/admindata/photo/16_天安门/ name:16_16.jpg
+[10:09:23 10/18/16] INFO  -  id:4716 path:/opt/tomcat/webapps/targetreg/admindata/photo/16_天安门/ name:16_17.jpg
+[10:09:23 10/18/16] INFO  -  id:4717 path:/opt/tomcat/webapps/targetreg/admindata/photo/16_天安门/ name:16_18.jpg
+[10:09:30 10/18/16] INFO  - RetrieveServer ## id=d7266e0588a94d6e#pi=1#pn=10#word=鸟巢#
+[10:09:30 10/18/16] INFO  - status 1
+[10:09:30 10/18/16] INFO  -  id:125 path:116.402885,39.999439 name:鸟巢
+[10:09:30 10/18/16] INFO  -  id:177 path:116.402885,39.999439 name:鸟巢(遥感)
+[10:09:30 10/18/16] INFO  - RetrieveServer ## id=9f6085865f2c47fc#pi=1#pn=10#word=鸟巢#
+[10:09:30 10/18/16] INFO  - status 1
+[10:09:30 10/18/16] INFO  -  id:1361 path:/opt/tomcat/webapps/targetreg/admindata/remote/95_鸟巢(遥感)/ name:95_1.jpg
+[10:09:30 10/18/16] INFO  -  id:1362 path:/opt/tomcat/webapps/targetreg/admindata/remote/95_鸟巢(遥感)/ name:95_2.jpg
+[10:09:30 10/18/16] INFO  -  id:1363 path:/opt/tomcat/webapps/targetreg/admindata/remote/95_鸟巢(遥感)/ name:95_3.jpg
+[10:09:30 10/18/16] INFO  -  id:1364 path:/opt/tomcat/webapps/targetreg/admindata/remote/95_鸟巢(遥感)/ name:95_4.jpg
+[10:09:30 10/18/16] INFO  -  id:1365 path:/opt/tomcat/webapps/targetreg/admindata/remote/95_鸟巢(遥感)/ name:95_5.jpg
+[10:09:30 10/18/16] INFO  -  id:5268 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_1.jpg
+[10:09:30 10/18/16] INFO  -  id:5269 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_10.jpg
+[10:09:30 10/18/16] INFO  -  id:5270 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_11.jpg
+[10:09:30 10/18/16] INFO  -  id:5271 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_12.jpg
+[10:09:30 10/18/16] INFO  -  id:5272 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_13.jpg
+[10:09:30 10/18/16] INFO  -  id:5273 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_14.jpg
+[10:09:30 10/18/16] INFO  -  id:5274 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_15.jpg
+[10:09:30 10/18/16] INFO  -  id:5275 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_16.jpg
+[10:09:30 10/18/16] INFO  -  id:5276 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_17.jpg
+[10:09:30 10/18/16] INFO  -  id:5277 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_18.jpg
+[10:09:38 10/18/16] INFO  - RetrieveServer ## id=4e02b8c797c948f7#pi=1#pn=10#word=鸟巢(遥感)#
+[10:09:38 10/18/16] INFO  - status 1
+[10:09:38 10/18/16] INFO  -  id:1361 path:/opt/tomcat/webapps/targetreg/admindata/remote/95_鸟巢(遥感)/ name:95_1.jpg
+[10:09:38 10/18/16] INFO  -  id:1362 path:/opt/tomcat/webapps/targetreg/admindata/remote/95_鸟巢(遥感)/ name:95_2.jpg
+[10:09:38 10/18/16] INFO  -  id:1363 path:/opt/tomcat/webapps/targetreg/admindata/remote/95_鸟巢(遥感)/ name:95_3.jpg
+[10:09:38 10/18/16] INFO  -  id:1364 path:/opt/tomcat/webapps/targetreg/admindata/remote/95_鸟巢(遥感)/ name:95_4.jpg
+[10:09:38 10/18/16] INFO  -  id:1365 path:/opt/tomcat/webapps/targetreg/admindata/remote/95_鸟巢(遥感)/ name:95_5.jpg
+[10:09:38 10/18/16] INFO  -  id:5268 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_1.jpg
+[10:09:38 10/18/16] INFO  -  id:5269 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_10.jpg
+[10:09:38 10/18/16] INFO  -  id:5270 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_11.jpg
+[10:09:38 10/18/16] INFO  -  id:5271 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_12.jpg
+[10:09:38 10/18/16] INFO  -  id:5272 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_13.jpg
+[10:09:38 10/18/16] INFO  -  id:5273 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_14.jpg
+[10:09:38 10/18/16] INFO  -  id:5274 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_15.jpg
+[10:09:38 10/18/16] INFO  -  id:5275 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_16.jpg
+[10:09:38 10/18/16] INFO  -  id:5276 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_17.jpg
+[10:09:38 10/18/16] INFO  -  id:5277 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_18.jpg
+[10:09:39 10/18/16] INFO  - RetrieveServer ## id=ed86cb3df0ee4380#pi=1#pn=10#word=鸟巢#
+[10:09:39 10/18/16] INFO  - status 1
+[10:09:39 10/18/16] INFO  -  id:1361 path:/opt/tomcat/webapps/targetreg/admindata/remote/95_鸟巢(遥感)/ name:95_1.jpg
+[10:09:39 10/18/16] INFO  -  id:1362 path:/opt/tomcat/webapps/targetreg/admindata/remote/95_鸟巢(遥感)/ name:95_2.jpg
+[10:09:39 10/18/16] INFO  -  id:1363 path:/opt/tomcat/webapps/targetreg/admindata/remote/95_鸟巢(遥感)/ name:95_3.jpg
+[10:09:39 10/18/16] INFO  -  id:1364 path:/opt/tomcat/webapps/targetreg/admindata/remote/95_鸟巢(遥感)/ name:95_4.jpg
+[10:09:39 10/18/16] INFO  -  id:1365 path:/opt/tomcat/webapps/targetreg/admindata/remote/95_鸟巢(遥感)/ name:95_5.jpg
+[10:09:39 10/18/16] INFO  -  id:5268 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_1.jpg
+[10:09:39 10/18/16] INFO  -  id:5269 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_10.jpg
+[10:09:39 10/18/16] INFO  -  id:5270 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_11.jpg
+[10:09:39 10/18/16] INFO  -  id:5271 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_12.jpg
+[10:09:39 10/18/16] INFO  -  id:5272 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_13.jpg
+[10:09:39 10/18/16] INFO  -  id:5273 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_14.jpg
+[10:09:39 10/18/16] INFO  -  id:5274 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_15.jpg
+[10:09:39 10/18/16] INFO  -  id:5275 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_16.jpg
+[10:09:39 10/18/16] INFO  -  id:5276 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_17.jpg
+[10:09:39 10/18/16] INFO  -  id:5277 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_18.jpg
+[19:59:25 10/18/16] INFO  - RetrieveServer ## featureurl=/opt/tomcat/webapps/targetreg/userupload/3ca8e9daef5643fbb7fe04acfa66957f_cap.csv#height=338#id=0e23430f5a014208#purl=/opt/tomcat/webapps/targetreg/userupload/3ca8e9daef5643fbb7fe04acfa66957f.jpg#saveurl=/opt/tomcat/webapps/targetreg/userupload/3ca8e9daef5643fbb7fe04acfa66957f_cap.jpg#upleftx=145#uplefty=9#width=336#
+imgwidth is 188, imgheight is 158
+width is 104height is 132upleftx is 45uplefty is 3
+ASIFT Start.
+Feature Save URL ## /opt/tomcat/webapps/targetreg/userupload/3ca8e9daef5643fbb7fe04acfa66957f_cap.csv
+Extract Features From:/opt/tomcat/webapps/targetreg/userupload/3ca8e9daef5643fbb7fe04acfa66957f_cap.jpg
+Processing. 
+image heigh : 132
+image width : 104
+image band  : 3
+178 ASIFT keypoints are detected. 
+extract done.
+ASIFT Done. Running time:1
+Sparse Representation Start.
+Sparse Representation Done. Running time:3
+[19:59:29 10/18/16] INFO  - status 1
+[19:59:29 10/18/16] INFO  -  id:47 path:116.416747,39.886653 name:天坛
+[19:59:29 10/18/16] INFO  -  id:80 path:116.32202,39.898073 name:莲湖池公园(遥感)
+[19:59:29 10/18/16] INFO  -  id:69 path:116.400654,40.014247 name:奥林匹克公园瞭望塔(遥感)
+[19:59:29 10/18/16] INFO  -  id:59 path:116.39548,39.932907 name:北海公园(遥感)
+[19:59:29 10/18/16] INFO  -  id:1 path:116.480304,39.93991 name:凤凰国际传媒中心
+[19:59:29 10/18/16] INFO  -  id:71 path:116.448842,39.938059 name:工人体育馆(遥感)
+[19:59:29 10/18/16] INFO  -  id:99 path:116.327767,39.900513 name:北京西站(遥感)
+[19:59:29 10/18/16] INFO  -  id:50 path:116.433738,39.90981 name:北京站
+[19:59:29 10/18/16] INFO  -  id:57 path:116.346349,39.95307 name:北京海洋馆(遥感)
+[19:59:29 10/18/16] INFO  -  id:28 path:116.380248,39.904719 name:环球财讯中心
+[19:59:29 10/18/16] INFO  - RetrieveServer ## id=258dfd5ec87a4768#pi=1#pn=10#word=天坛#
+[19:59:29 10/18/16] INFO  - status 1
+[19:59:29 10/18/16] INFO  -  id:1371 path:/opt/tomcat/webapps/targetreg/admindata/remote/97_天坛(遥感)/ name:97_1.jpg
+[19:59:29 10/18/16] INFO  -  id:1372 path:/opt/tomcat/webapps/targetreg/admindata/remote/97_天坛(遥感)/ name:97_2.jpg
+[19:59:29 10/18/16] INFO  -  id:1373 path:/opt/tomcat/webapps/targetreg/admindata/remote/97_天坛(遥感)/ name:97_3.jpg
+[19:59:29 10/18/16] INFO  -  id:1374 path:/opt/tomcat/webapps/targetreg/admindata/remote/97_天坛(遥感)/ name:97_4.jpg
+[19:59:29 10/18/16] INFO  -  id:1375 path:/opt/tomcat/webapps/targetreg/admindata/remote/97_天坛(遥感)/ name:97_5.jpg
+[19:59:29 10/18/16] INFO  -  id:5347 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_1.jpg
+[19:59:29 10/18/16] INFO  -  id:5348 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_10.jpg
+[19:59:29 10/18/16] INFO  -  id:5349 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_11.jpg
+[19:59:29 10/18/16] INFO  -  id:5350 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_12.jpg
+[19:59:29 10/18/16] INFO  -  id:5351 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_13.jpg
+[19:59:29 10/18/16] INFO  -  id:5352 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_14.jpg
+[19:59:29 10/18/16] INFO  -  id:5353 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_15.jpg
+[19:59:29 10/18/16] INFO  -  id:5354 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_16.jpg
+[19:59:29 10/18/16] INFO  -  id:5355 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_17.jpg
+[19:59:29 10/18/16] INFO  -  id:5356 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_18.jpg
+[20:04:05 10/18/16] INFO  - RetrieveServer ## featureurl=/opt/tomcat/webapps/targetreg/userupload/1f8c1d58160647a2b0ae7c3ea2f0e4f8_cap.csv#height=342#id=32270a1cc1c54e89#purl=/opt/tomcat/webapps/targetreg/userupload/1f8c1d58160647a2b0ae7c3ea2f0e4f8.jpg#saveurl=/opt/tomcat/webapps/targetreg/userupload/1f8c1d58160647a2b0ae7c3ea2f0e4f8_cap.jpg#upleftx=158#uplefty=13#width=316#
+imgwidth is 188, imgheight is 158
+width is 98height is 134upleftx is 49uplefty is 5
+ASIFT Start.
+Feature Save URL ## /opt/tomcat/webapps/targetreg/userupload/1f8c1d58160647a2b0ae7c3ea2f0e4f8_cap.csv
+Extract Features From:/opt/tomcat/webapps/targetreg/userupload/1f8c1d58160647a2b0ae7c3ea2f0e4f8_cap.jpg
+Processing. 
+image heigh : 134
+image width : 98
+image band  : 3
+166 ASIFT keypoints are detected. 
+extract done.
+ASIFT Done. Running time:0
+Sparse Representation Start.
+Sparse Representation Done. Running time:3
+[20:04:08 10/18/16] INFO  - status 1
+[20:04:08 10/18/16] INFO  -  id:47 path:116.416747,39.886653 name:天坛
+[20:04:08 10/18/16] INFO  -  id:69 path:116.400654,40.014247 name:奥林匹克公园瞭望塔(遥感)
+[20:04:08 10/18/16] INFO  -  id:80 path:116.32202,39.898073 name:莲湖池公园(遥感)
+[20:04:08 10/18/16] INFO  -  id:1 path:116.480304,39.93991 name:凤凰国际传媒中心
+[20:04:08 10/18/16] INFO  -  id:50 path:116.433738,39.90981 name:北京站
+[20:04:08 10/18/16] INFO  -  id:71 path:116.448842,39.938059 name:工人体育馆(遥感)
+[20:04:08 10/18/16] INFO  -  id:57 path:116.346349,39.95307 name:北京海洋馆(遥感)
+[20:04:08 10/18/16] INFO  -  id:38 path:116.287474,40.077776 name:中科院光电院气球中心
+[20:04:08 10/18/16] INFO  -  id:30 path:116.32202,39.898073 name:莲湖池公园
+[20:04:08 10/18/16] INFO  -  id:27 path:116.326852,39.916398 name:梅地亚中心
+[20:04:08 10/18/16] INFO  - RetrieveServer ## id=9edd8af9ec5a435a#pi=1#pn=10#word=天坛#
+[20:04:08 10/18/16] INFO  - status 1
+[20:04:08 10/18/16] INFO  -  id:1371 path:/opt/tomcat/webapps/targetreg/admindata/remote/97_天坛(遥感)/ name:97_1.jpg
+[20:04:08 10/18/16] INFO  -  id:1372 path:/opt/tomcat/webapps/targetreg/admindata/remote/97_天坛(遥感)/ name:97_2.jpg
+[20:04:08 10/18/16] INFO  -  id:1373 path:/opt/tomcat/webapps/targetreg/admindata/remote/97_天坛(遥感)/ name:97_3.jpg
+[20:04:08 10/18/16] INFO  -  id:1374 path:/opt/tomcat/webapps/targetreg/admindata/remote/97_天坛(遥感)/ name:97_4.jpg
+[20:04:08 10/18/16] INFO  -  id:1375 path:/opt/tomcat/webapps/targetreg/admindata/remote/97_天坛(遥感)/ name:97_5.jpg
+[20:04:08 10/18/16] INFO  -  id:5347 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_1.jpg
+[20:04:08 10/18/16] INFO  -  id:5348 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_10.jpg
+[20:04:08 10/18/16] INFO  -  id:5349 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_11.jpg
+[20:04:08 10/18/16] INFO  -  id:5350 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_12.jpg
+[20:04:08 10/18/16] INFO  -  id:5351 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_13.jpg
+[20:04:08 10/18/16] INFO  -  id:5352 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_14.jpg
+[20:04:08 10/18/16] INFO  -  id:5353 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_15.jpg
+[20:04:08 10/18/16] INFO  -  id:5354 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_16.jpg
+[20:04:08 10/18/16] INFO  -  id:5355 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_17.jpg
+[20:04:08 10/18/16] INFO  -  id:5356 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_18.jpg
+[20:05:17 10/18/16] INFO  - RetrieveServer ## featureurl=/opt/tomcat/webapps/targetreg/userupload/65dfdee09e7d48f08e1035735a0fc178_cap.csv#height=338#id=f84890b560544f54#purl=/opt/tomcat/webapps/targetreg/userupload/65dfdee09e7d48f08e1035735a0fc178.jpg#saveurl=/opt/tomcat/webapps/targetreg/userupload/65dfdee09e7d48f08e1035735a0fc178_cap.jpg#upleftx=156#uplefty=17#width=308#
+imgwidth is 188, imgheight is 158
+width is 95height is 132upleftx is 48uplefty is 6
+ASIFT Start.
+Feature Save URL ## /opt/tomcat/webapps/targetreg/userupload/65dfdee09e7d48f08e1035735a0fc178_cap.csv
+Extract Features From:/opt/tomcat/webapps/targetreg/userupload/65dfdee09e7d48f08e1035735a0fc178_cap.jpg
+Processing. 
+image heigh : 132
+image width : 95
+image band  : 3
+157 ASIFT keypoints are detected. 
+extract done.
+ASIFT Done. Running time:1
+Sparse Representation Start.
+Sparse Representation Done. Running time:2
+[20:05:20 10/18/16] INFO  - status 1
+[20:05:20 10/18/16] INFO  -  id:47 path:116.416747,39.886653 name:天坛
+[20:05:20 10/18/16] INFO  -  id:69 path:116.400654,40.014247 name:奥林匹克公园瞭望塔(遥感)
+[20:05:20 10/18/16] INFO  -  id:57 path:116.346349,39.95307 name:北京海洋馆(遥感)
+[20:05:20 10/18/16] INFO  -  id:71 path:116.448842,39.938059 name:工人体育馆(遥感)
+[20:05:20 10/18/16] INFO  -  id:1 path:116.480304,39.93991 name:凤凰国际传媒中心
+[20:05:20 10/18/16] INFO  -  id:89 path:116.288661,40.078453 name:中科院遥感与数字地球研究所(遥感)
+[20:05:20 10/18/16] INFO  -  id:80 path:116.32202,39.898073 name:莲湖池公园(遥感)
+[20:05:20 10/18/16] INFO  -  id:50 path:116.433738,39.90981 name:北京站
+[20:05:20 10/18/16] INFO  -  id:28 path:116.380248,39.904719 name:环球财讯中心
+[20:05:20 10/18/16] INFO  -  id:54 path:116.270582,40.106889 name:北京大学国际医院(遥感)
+[20:05:20 10/18/16] INFO  - RetrieveServer ## id=41d9c5bb70044fbe#pi=1#pn=10#word=天坛#
+[20:05:20 10/18/16] INFO  - status 1
+[20:05:20 10/18/16] INFO  -  id:1371 path:/opt/tomcat/webapps/targetreg/admindata/remote/97_天坛(遥感)/ name:97_1.jpg
+[20:05:20 10/18/16] INFO  -  id:1372 path:/opt/tomcat/webapps/targetreg/admindata/remote/97_天坛(遥感)/ name:97_2.jpg
+[20:05:20 10/18/16] INFO  -  id:1373 path:/opt/tomcat/webapps/targetreg/admindata/remote/97_天坛(遥感)/ name:97_3.jpg
+[20:05:20 10/18/16] INFO  -  id:1374 path:/opt/tomcat/webapps/targetreg/admindata/remote/97_天坛(遥感)/ name:97_4.jpg
+[20:05:20 10/18/16] INFO  -  id:1375 path:/opt/tomcat/webapps/targetreg/admindata/remote/97_天坛(遥感)/ name:97_5.jpg
+[20:05:20 10/18/16] INFO  -  id:5347 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_1.jpg
+[20:05:20 10/18/16] INFO  -  id:5348 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_10.jpg
+[20:05:20 10/18/16] INFO  -  id:5349 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_11.jpg
+[20:05:20 10/18/16] INFO  -  id:5350 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_12.jpg
+[20:05:20 10/18/16] INFO  -  id:5351 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_13.jpg
+[20:05:20 10/18/16] INFO  -  id:5352 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_14.jpg
+[20:05:20 10/18/16] INFO  -  id:5353 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_15.jpg
+[20:05:20 10/18/16] INFO  -  id:5354 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_16.jpg
+[20:05:20 10/18/16] INFO  -  id:5355 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_17.jpg
+[20:05:20 10/18/16] INFO  -  id:5356 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_18.jpg
+[20:06:24 10/18/16] INFO  - RetrieveServer ## featureurl=/opt/tomcat/webapps/targetreg/userupload/838993c9b9eb41b49cde7a49c21b7fee_cap.csv#height=377#id=4a8153d5d83e44b0#purl=/opt/tomcat/webapps/targetreg/userupload/838993c9b9eb41b49cde7a49c21b7fee.jpg#saveurl=/opt/tomcat/webapps/targetreg/userupload/838993c9b9eb41b49cde7a49c21b7fee_cap.jpg#upleftx=59#uplefty=12#width=453#
+imgwidth is 518, imgheight is 457
+width is 388height is 427upleftx is 50uplefty is 13
+ASIFT Start.
+Feature Save URL ## /opt/tomcat/webapps/targetreg/userupload/838993c9b9eb41b49cde7a49c21b7fee_cap.csv
+Extract Features From:/opt/tomcat/webapps/targetreg/userupload/838993c9b9eb41b49cde7a49c21b7fee_cap.jpg
+Processing. 
+image heigh : 427
+image width : 388
+image band  : 3
+WARNING: The input images are resized to 200x220 for ASIFT. 
+         But the results will be normalized to the original image size.
+
+596 ASIFT keypoints are detected. 
+extract done.
+ASIFT Done. Running time:1
+Sparse Representation Start.
+Sparse Representation Done. Running time:9
+[20:06:34 10/18/16] INFO  - status 1
+[20:06:34 10/18/16] INFO  -  id:95 path:116.402885,39.999439 name:鸟巢(遥感)
+[20:06:34 10/18/16] INFO  -  id:47 path:116.416747,39.886653 name:天坛
+[20:06:34 10/18/16] INFO  -  id:49 path:116.327767,39.900513 name:北京西站
+[20:06:34 10/18/16] INFO  -  id:3 path:116.257021,39.911812 name:北京国际雕塑公园
+[20:06:34 10/18/16] INFO  -  id:81 path:116.44008,39.926399 name:银河SOHO(遥感)
+[20:06:34 10/18/16] INFO  -  id:40 path:116.287104,39.917544 name:五棵松体育馆
+[20:06:34 10/18/16] INFO  -  id:30 path:116.32202,39.898073 name:莲湖池公园
+[20:06:34 10/18/16] INFO  -  id:46 path:116.396767,39.999455 name:水立方
+[20:06:34 10/18/16] INFO  -  id:28 path:116.380248,39.904719 name:环球财讯中心
+[20:06:34 10/18/16] INFO  -  id:11 path:116.327886,39.917362 name:中华世纪坛
+[20:06:35 10/18/16] INFO  - RetrieveServer ## id=c5553ae8126b4555#pi=1#pn=10#word=鸟巢(遥感)#
+[20:06:35 10/18/16] INFO  - status 1
+[20:06:35 10/18/16] INFO  -  id:1361 path:/opt/tomcat/webapps/targetreg/admindata/remote/95_鸟巢(遥感)/ name:95_1.jpg
+[20:06:35 10/18/16] INFO  -  id:1362 path:/opt/tomcat/webapps/targetreg/admindata/remote/95_鸟巢(遥感)/ name:95_2.jpg
+[20:06:35 10/18/16] INFO  -  id:1363 path:/opt/tomcat/webapps/targetreg/admindata/remote/95_鸟巢(遥感)/ name:95_3.jpg
+[20:06:35 10/18/16] INFO  -  id:1364 path:/opt/tomcat/webapps/targetreg/admindata/remote/95_鸟巢(遥感)/ name:95_4.jpg
+[20:06:35 10/18/16] INFO  -  id:1365 path:/opt/tomcat/webapps/targetreg/admindata/remote/95_鸟巢(遥感)/ name:95_5.jpg
+[20:06:35 10/18/16] INFO  -  id:5268 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_1.jpg
+[20:06:35 10/18/16] INFO  -  id:5269 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_10.jpg
+[20:06:35 10/18/16] INFO  -  id:5270 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_11.jpg
+[20:06:35 10/18/16] INFO  -  id:5271 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_12.jpg
+[20:06:35 10/18/16] INFO  -  id:5272 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_13.jpg
+[20:06:35 10/18/16] INFO  -  id:5273 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_14.jpg
+[20:06:35 10/18/16] INFO  -  id:5274 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_15.jpg
+[20:06:35 10/18/16] INFO  -  id:5275 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_16.jpg
+[20:06:35 10/18/16] INFO  -  id:5276 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_17.jpg
+[20:06:35 10/18/16] INFO  -  id:5277 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_18.jpg
+[20:07:06 10/18/16] INFO  - RetrieveServer ## featureurl=/opt/tomcat/webapps/targetreg/userupload/9862484a4d114e22b4e96c0b71d38438_cap.csv#height=271#id=0e5c8d09e4c548d5#purl=/opt/tomcat/webapps/targetreg/userupload/9862484a4d114e22b4e96c0b71d38438.JPG#saveurl=/opt/tomcat/webapps/targetreg/userupload/9862484a4d114e22b4e96c0b71d38438_cap.JPG#upleftx=54#uplefty=93#width=411#
+imgwidth is 908, imgheight is 639
+width is 617height is 429upleftx is 81uplefty is 147
+ASIFT Start.
+Feature Save URL ## /opt/tomcat/webapps/targetreg/userupload/9862484a4d114e22b4e96c0b71d38438_cap.csv
+Extract Features From:/opt/tomcat/webapps/targetreg/userupload/9862484a4d114e22b4e96c0b71d38438_cap.JPG
+Processing. 
+image heigh : 429
+image width : 617
+image band  : 3
+WARNING: The input images are resized to 200x139 for ASIFT. 
+         But the results will be normalized to the original image size.
+
+393 ASIFT keypoints are detected. 
+extract done.
+ASIFT Done. Running time:0
+Sparse Representation Start.
+Sparse Representation Done. Running time:7
+[20:07:13 10/18/16] INFO  - status 1
+[20:07:13 10/18/16] INFO  -  id:39 path:116.288661,40.078453 name:中科院遥感与数字地球研究所
+[20:07:13 10/18/16] INFO  -  id:59 path:116.39548,39.932907 name:北海公园(遥感)
+[20:07:13 10/18/16] INFO  -  id:82 path:116.388222,39.880236 name:陶然亭公园(遥感)
+[20:07:13 10/18/16] INFO  -  id:99 path:116.327767,39.900513 name:北京西站(遥感)
+[20:07:13 10/18/16] INFO  -  id:23 path:116.486297,40.000851 name:望京soho
+[20:07:13 10/18/16] INFO  -  id:79 path:116.403511,39.923114 name:紫禁城(遥感)
+[20:07:13 10/18/16] INFO  -  id:84 path:116.27487,39.998475 name:颐和园(遥感)
+[20:07:13 10/18/16] INFO  -  id:67 path:116.470956,39.92106 name:央视大楼(遥感)
+[20:07:13 10/18/16] INFO  -  id:90 path:116.287104,39.917544 name:五棵松体育馆(遥感)
+[20:07:13 10/18/16] INFO  -  id:20 path:116.387103,40.019668 name:奥林匹克森林公园五环亭
+[20:07:13 10/18/16] INFO  - RetrieveServer ## id=912a06769ba44378#pi=1#pn=10#word=中科院遥感与数字地球研究所#
+[20:07:13 10/18/16] INFO  - status 1
+[20:07:13 10/18/16] INFO  -  id:1336 path:/opt/tomcat/webapps/targetreg/admindata/remote/89_中科院遥感与数字地球研究所(遥感)/ name:89_1.jpg
+[20:07:13 10/18/16] INFO  -  id:1337 path:/opt/tomcat/webapps/targetreg/admindata/remote/89_中科院遥感与数字地球研究所(遥感)/ name:89_2.jpg
+[20:07:13 10/18/16] INFO  -  id:1338 path:/opt/tomcat/webapps/targetreg/admindata/remote/89_中科院遥感与数字地球研究所(遥感)/ name:89_3.jpg
+[20:07:13 10/18/16] INFO  -  id:1339 path:/opt/tomcat/webapps/targetreg/admindata/remote/89_中科院遥感与数字地球研究所(遥感)/ name:89_4.jpg
+[20:07:13 10/18/16] INFO  -  id:1340 path:/opt/tomcat/webapps/targetreg/admindata/remote/89_中科院遥感与数字地球研究所(遥感)/ name:89_5.jpg
+[20:07:13 10/18/16] INFO  -  id:5096 path:/opt/tomcat/webapps/targetreg/admindata/photo/39_中科院遥感与数字地球研究所/ name:39_1.jpg
+[20:07:13 10/18/16] INFO  -  id:5097 path:/opt/tomcat/webapps/targetreg/admindata/photo/39_中科院遥感与数字地球研究所/ name:39_2.jpg
+[20:07:13 10/18/16] INFO  -  id:5098 path:/opt/tomcat/webapps/targetreg/admindata/photo/39_中科院遥感与数字地球研究所/ name:39_3.jpg
+[20:07:13 10/18/16] INFO  -  id:5099 path:/opt/tomcat/webapps/targetreg/admindata/photo/39_中科院遥感与数字地球研究所/ name:39_4.jpg
+[20:07:13 10/18/16] INFO  -  id:5100 path:/opt/tomcat/webapps/targetreg/admindata/photo/39_中科院遥感与数字地球研究所/ name:39_5.jpg
+[20:07:13 10/18/16] INFO  -  id:5101 path:/opt/tomcat/webapps/targetreg/admindata/photo/39_中科院遥感与数字地球研究所/ name:39_6.jpg
+[20:07:13 10/18/16] INFO  -  id:5102 path:/opt/tomcat/webapps/targetreg/admindata/photo/39_中科院遥感与数字地球研究所/ name:39_7.JPG
+[20:07:28 10/18/16] INFO  - RetrieveServer ## id=10ee1a1ba3f74bc0#pi=1#pn=10#word=水立方#
+[20:07:28 10/18/16] INFO  - status 1
+[20:07:28 10/18/16] INFO  -  id:126 path:116.396767,39.999455 name:水立方
+[20:07:28 10/18/16] INFO  -  id:178 path:116.396767,39.999455 name:水立方(遥感)
+[20:07:28 10/18/16] INFO  - RetrieveServer ## id=ec8144d929144925#pi=1#pn=10#word=水立方#
+[20:07:28 10/18/16] INFO  - status 1
+[20:07:28 10/18/16] INFO  -  id:1366 path:/opt/tomcat/webapps/targetreg/admindata/remote/96_水立方(遥感)/ name:96_1.jpg
+[20:07:28 10/18/16] INFO  -  id:1367 path:/opt/tomcat/webapps/targetreg/admindata/remote/96_水立方(遥感)/ name:96_2.jpg
+[20:07:28 10/18/16] INFO  -  id:1368 path:/opt/tomcat/webapps/targetreg/admindata/remote/96_水立方(遥感)/ name:96_3.jpg
+[20:07:28 10/18/16] INFO  -  id:1369 path:/opt/tomcat/webapps/targetreg/admindata/remote/96_水立方(遥感)/ name:96_4.jpg
+[20:07:28 10/18/16] INFO  -  id:1370 path:/opt/tomcat/webapps/targetreg/admindata/remote/96_水立方(遥感)/ name:96_5.jpg
+[20:07:28 10/18/16] INFO  -  id:5322 path:/opt/tomcat/webapps/targetreg/admindata/photo/46_水立方/ name:46_1.jpg
+[20:07:28 10/18/16] INFO  -  id:5323 path:/opt/tomcat/webapps/targetreg/admindata/photo/46_水立方/ name:46_10.jpg
+[20:07:28 10/18/16] INFO  -  id:5324 path:/opt/tomcat/webapps/targetreg/admindata/photo/46_水立方/ name:46_11.jpg
+[20:07:28 10/18/16] INFO  -  id:5325 path:/opt/tomcat/webapps/targetreg/admindata/photo/46_水立方/ name:46_12.jpg
+[20:07:28 10/18/16] INFO  -  id:5326 path:/opt/tomcat/webapps/targetreg/admindata/photo/46_水立方/ name:46_13.jpg
+[20:07:28 10/18/16] INFO  -  id:5327 path:/opt/tomcat/webapps/targetreg/admindata/photo/46_水立方/ name:46_14.jpg
+[20:07:28 10/18/16] INFO  -  id:5328 path:/opt/tomcat/webapps/targetreg/admindata/photo/46_水立方/ name:46_15.jpg
+[20:07:28 10/18/16] INFO  -  id:5329 path:/opt/tomcat/webapps/targetreg/admindata/photo/46_水立方/ name:46_16.jpg
+[20:07:28 10/18/16] INFO  -  id:5330 path:/opt/tomcat/webapps/targetreg/admindata/photo/46_水立方/ name:46_17.jpg
+[20:07:28 10/18/16] INFO  -  id:5331 path:/opt/tomcat/webapps/targetreg/admindata/photo/46_水立方/ name:46_18.jpg
+[20:24:40 10/18/16] INFO  - RetrieveServer ## featureurl=/opt/tomcat/webapps/targetreg/userupload/205ce755ca4546a0b279c2c3bb59a2ea_cap.csv#height=331#id=b263cfc057a640d5#purl=/opt/tomcat/webapps/targetreg/userupload/205ce755ca4546a0b279c2c3bb59a2ea.jpg#saveurl=/opt/tomcat/webapps/targetreg/userupload/205ce755ca4546a0b279c2c3bb59a2ea_cap.jpg#upleftx=165#uplefty=21#width=301#
+imgwidth is 188, imgheight is 158
+width is 93height is 129upleftx is 51uplefty is 8
+ASIFT Start.
+Feature Save URL ## /opt/tomcat/webapps/targetreg/userupload/205ce755ca4546a0b279c2c3bb59a2ea_cap.csv
+Extract Features From:/opt/tomcat/webapps/targetreg/userupload/205ce755ca4546a0b279c2c3bb59a2ea_cap.jpg
+Processing. 
+image heigh : 129
+image width : 93
+image band  : 3
+147 ASIFT keypoints are detected. 
+extract done.
+ASIFT Done. Running time:0
+Sparse Representation Start.
+Sparse Representation Done. Running time:2
+[20:24:42 10/18/16] INFO  - status 1
+[20:24:42 10/18/16] INFO  -  id:47 path:116.416747,39.886653 name:天坛
+[20:24:42 10/18/16] INFO  -  id:80 path:116.32202,39.898073 name:莲湖池公园(遥感)
+[20:24:42 10/18/16] INFO  -  id:66 path:116.403943,39.914929 name:天安门(遥感)
+[20:24:42 10/18/16] INFO  -  id:69 path:116.400654,40.014247 name:奥林匹克公园瞭望塔(遥感)
+[20:24:42 10/18/16] INFO  -  id:1 path:116.480304,39.93991 name:凤凰国际传媒中心
+[20:24:42 10/18/16] INFO  -  id:71 path:116.448842,39.938059 name:工人体育馆(遥感)
+[20:24:42 10/18/16] INFO  -  id:57 path:116.346349,39.95307 name:北京海洋馆(遥感)
+[20:24:42 10/18/16] INFO  -  id:93 path:116.33719,39.768859 name:兴创大厦(遥感)
+[20:24:42 10/18/16] INFO  -  id:24 path:116.478911,39.93516 name:朝阳体育馆
+[20:24:42 10/18/16] INFO  -  id:59 path:116.39548,39.932907 name:北海公园(遥感)
+[20:24:43 10/18/16] INFO  - RetrieveServer ## id=e65ccf08507340d1#pi=1#pn=10#word=天坛#
+[20:24:43 10/18/16] INFO  - status 1
+[20:24:43 10/18/16] INFO  -  id:1371 path:/opt/tomcat/webapps/targetreg/admindata/remote/97_天坛(遥感)/ name:97_1.jpg
+[20:24:43 10/18/16] INFO  -  id:1372 path:/opt/tomcat/webapps/targetreg/admindata/remote/97_天坛(遥感)/ name:97_2.jpg
+[20:24:43 10/18/16] INFO  -  id:1373 path:/opt/tomcat/webapps/targetreg/admindata/remote/97_天坛(遥感)/ name:97_3.jpg
+[20:24:43 10/18/16] INFO  -  id:1374 path:/opt/tomcat/webapps/targetreg/admindata/remote/97_天坛(遥感)/ name:97_4.jpg
+[20:24:43 10/18/16] INFO  -  id:1375 path:/opt/tomcat/webapps/targetreg/admindata/remote/97_天坛(遥感)/ name:97_5.jpg
+[20:24:43 10/18/16] INFO  -  id:5347 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_1.jpg
+[20:24:43 10/18/16] INFO  -  id:5348 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_10.jpg
+[20:24:43 10/18/16] INFO  -  id:5349 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_11.jpg
+[20:24:43 10/18/16] INFO  -  id:5350 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_12.jpg
+[20:24:43 10/18/16] INFO  -  id:5351 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_13.jpg
+[20:24:43 10/18/16] INFO  -  id:5352 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_14.jpg
+[20:24:43 10/18/16] INFO  -  id:5353 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_15.jpg
+[20:24:43 10/18/16] INFO  -  id:5354 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_16.jpg
+[20:24:43 10/18/16] INFO  -  id:5355 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_17.jpg
+[20:24:43 10/18/16] INFO  -  id:5356 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_18.jpg
+[20:25:39 10/18/16] INFO  - RetrieveServer ## featureurl=/opt/tomcat/webapps/targetreg/userupload/2c229cdc20394798b9aec3af7bbe6f5e_cap.csv#height=375#id=ac099b2eb5f24404#purl=/opt/tomcat/webapps/targetreg/userupload/2c229cdc20394798b9aec3af7bbe6f5e.jpg#saveurl=/opt/tomcat/webapps/targetreg/userupload/2c229cdc20394798b9aec3af7bbe6f5e_cap.jpg#upleftx=59#uplefty=17#width=451#
+imgwidth is 518, imgheight is 457
+width is 386height is 425upleftx is 50uplefty is 19
+ASIFT Start.
+Feature Save URL ## /opt/tomcat/webapps/targetreg/userupload/2c229cdc20394798b9aec3af7bbe6f5e_cap.csv
+Extract Features From:/opt/tomcat/webapps/targetreg/userupload/2c229cdc20394798b9aec3af7bbe6f5e_cap.jpg
+Processing. 
+image heigh : 425
+image width : 386
+image band  : 3
+WARNING: The input images are resized to 200x220 for ASIFT. 
+         But the results will be normalized to the original image size.
+
+581 ASIFT keypoints are detected. 
+extract done.
+ASIFT Done. Running time:1
+Sparse Representation Start.
+Sparse Representation Done. Running time:9
+[20:25:49 10/18/16] INFO  - status 1
+[20:25:49 10/18/16] INFO  -  id:95 path:116.402885,39.999439 name:鸟巢(遥感)
+[20:25:49 10/18/16] INFO  -  id:47 path:116.416747,39.886653 name:天坛
+[20:25:49 10/18/16] INFO  -  id:49 path:116.327767,39.900513 name:北京西站
+[20:25:49 10/18/16] INFO  -  id:30 path:116.32202,39.898073 name:莲湖池公园
+[20:25:49 10/18/16] INFO  -  id:3 path:116.257021,39.911812 name:北京国际雕塑公园
+[20:25:49 10/18/16] INFO  -  id:40 path:116.287104,39.917544 name:五棵松体育馆
+[20:25:49 10/18/16] INFO  -  id:69 path:116.400654,40.014247 name:奥林匹克公园瞭望塔(遥感)
+[20:25:49 10/18/16] INFO  -  id:56 path:116.350617,39.946412 name:北京展览馆(遥感)
+[20:25:49 10/18/16] INFO  -  id:23 path:116.486297,40.000851 name:望京soho
+[20:25:49 10/18/16] INFO  -  id:1 path:116.480304,39.93991 name:凤凰国际传媒中心
+[20:25:50 10/18/16] INFO  - RetrieveServer ## id=10490216abf74e5e#pi=1#pn=10#word=鸟巢(遥感)#
+[20:25:50 10/18/16] INFO  - status 1
+[20:25:50 10/18/16] INFO  -  id:1361 path:/opt/tomcat/webapps/targetreg/admindata/remote/95_鸟巢(遥感)/ name:95_1.jpg
+[20:25:50 10/18/16] INFO  -  id:1362 path:/opt/tomcat/webapps/targetreg/admindata/remote/95_鸟巢(遥感)/ name:95_2.jpg
+[20:25:50 10/18/16] INFO  -  id:1363 path:/opt/tomcat/webapps/targetreg/admindata/remote/95_鸟巢(遥感)/ name:95_3.jpg
+[20:25:50 10/18/16] INFO  -  id:1364 path:/opt/tomcat/webapps/targetreg/admindata/remote/95_鸟巢(遥感)/ name:95_4.jpg
+[20:25:50 10/18/16] INFO  -  id:1365 path:/opt/tomcat/webapps/targetreg/admindata/remote/95_鸟巢(遥感)/ name:95_5.jpg
+[20:25:50 10/18/16] INFO  -  id:5268 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_1.jpg
+[20:25:50 10/18/16] INFO  -  id:5269 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_10.jpg
+[20:25:50 10/18/16] INFO  -  id:5270 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_11.jpg
+[20:25:50 10/18/16] INFO  -  id:5271 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_12.jpg
+[20:25:50 10/18/16] INFO  -  id:5272 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_13.jpg
+[20:25:50 10/18/16] INFO  -  id:5273 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_14.jpg
+[20:25:50 10/18/16] INFO  -  id:5274 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_15.jpg
+[20:25:50 10/18/16] INFO  -  id:5275 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_16.jpg
+[20:25:50 10/18/16] INFO  -  id:5276 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_17.jpg
+[20:25:50 10/18/16] INFO  -  id:5277 path:/opt/tomcat/webapps/targetreg/admindata/photo/45_鸟巢/ name:45_18.jpg
+[20:26:05 10/18/16] INFO  - RetrieveServer ## id=76da66ccf72d4d72#pi=1#pn=10#word=天坛#
+[20:26:05 10/18/16] INFO  - status 1
+[20:26:05 10/18/16] INFO  -  id:1371 path:/opt/tomcat/webapps/targetreg/admindata/remote/97_天坛(遥感)/ name:97_1.jpg
+[20:26:05 10/18/16] INFO  -  id:1372 path:/opt/tomcat/webapps/targetreg/admindata/remote/97_天坛(遥感)/ name:97_2.jpg
+[20:26:05 10/18/16] INFO  -  id:1373 path:/opt/tomcat/webapps/targetreg/admindata/remote/97_天坛(遥感)/ name:97_3.jpg
+[20:26:05 10/18/16] INFO  -  id:1374 path:/opt/tomcat/webapps/targetreg/admindata/remote/97_天坛(遥感)/ name:97_4.jpg
+[20:26:05 10/18/16] INFO  -  id:1375 path:/opt/tomcat/webapps/targetreg/admindata/remote/97_天坛(遥感)/ name:97_5.jpg
+[20:26:05 10/18/16] INFO  -  id:5347 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_1.jpg
+[20:26:05 10/18/16] INFO  -  id:5348 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_10.jpg
+[20:26:05 10/18/16] INFO  -  id:5349 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_11.jpg
+[20:26:05 10/18/16] INFO  -  id:5350 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_12.jpg
+[20:26:05 10/18/16] INFO  -  id:5351 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_13.jpg
+[20:26:05 10/18/16] INFO  -  id:5352 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_14.jpg
+[20:26:05 10/18/16] INFO  -  id:5353 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_15.jpg
+[20:26:05 10/18/16] INFO  -  id:5354 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_16.jpg
+[20:26:05 10/18/16] INFO  -  id:5355 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_17.jpg
+[20:26:05 10/18/16] INFO  -  id:5356 path:/opt/tomcat/webapps/targetreg/admindata/photo/47_天坛/ name:47_18.jpg
+[20:26:06 10/18/16] INFO  - RetrieveServer ## id=e16aea96ccb54ca0#pi=1#pn=10#word=北京西站#
+[20:26:06 10/18/16] INFO  - status 1
+[20:26:06 10/18/16] INFO  -  id:1381 path:/opt/tomcat/webapps/targetreg/admindata/remote/99_北京西站(遥感)/ name:99_1.jpg
+[20:26:06 10/18/16] INFO  -  id:1382 path:/opt/tomcat/webapps/targetreg/admindata/remote/99_北京西站(遥感)/ name:99_2.jpg
+[20:26:06 10/18/16] INFO  -  id:1383 path:/opt/tomcat/webapps/targetreg/admindata/remote/99_北京西站(遥感)/ name:99_3.jpg
+[20:26:06 10/18/16] INFO  -  id:1384 path:/opt/tomcat/webapps/targetreg/admindata/remote/99_北京西站(遥感)/ name:99_4.jpg
+[20:26:06 10/18/16] INFO  -  id:1385 path:/opt/tomcat/webapps/targetreg/admindata/remote/99_北京西站(遥感)/ name:99_5.jpg
+[20:26:06 10/18/16] INFO  -  id:5397 path:/opt/tomcat/webapps/targetreg/admindata/photo/49_北京西站/ name:49_1.jpg
+[20:26:06 10/18/16] INFO  -  id:5398 path:/opt/tomcat/webapps/targetreg/admindata/photo/49_北京西站/ name:49_10.jpg
+[20:26:06 10/18/16] INFO  -  id:5399 path:/opt/tomcat/webapps/targetreg/admindata/photo/49_北京西站/ name:49_11.jpg
+[20:26:06 10/18/16] INFO  -  id:5400 path:/opt/tomcat/webapps/targetreg/admindata/photo/49_北京西站/ name:49_12.jpg
+[20:26:06 10/18/16] INFO  -  id:5401 path:/opt/tomcat/webapps/targetreg/admindata/photo/49_北京西站/ name:49_13.jpg
+[20:26:06 10/18/16] INFO  -  id:5402 path:/opt/tomcat/webapps/targetreg/admindata/photo/49_北京西站/ name:49_14.jpg
+[20:26:06 10/18/16] INFO  -  id:5403 path:/opt/tomcat/webapps/targetreg/admindata/photo/49_北京西站/ name:49_15.jpg
+[20:26:06 10/18/16] INFO  -  id:5404 path:/opt/tomcat/webapps/targetreg/admindata/photo/49_北京西站/ name:49_16.jpg
+[20:26:06 10/18/16] INFO  -  id:5405 path:/opt/tomcat/webapps/targetreg/admindata/photo/49_北京西站/ name:49_17.jpg
+[20:26:06 10/18/16] INFO  -  id:5406 path:/opt/tomcat/webapps/targetreg/admindata/photo/49_北京西站/ name:49_18.jpg
+[20:26:21 10/18/16] INFO  - RetrieveServer ## featureurl=/opt/tomcat/webapps/targetreg/userupload/514f280f44ff4e76baa9d3e668cd4603_cap.csv#height=279#id=8f77dbe1dba644d7#purl=/opt/tomcat/webapps/targetreg/userupload/514f280f44ff4e76baa9d3e668cd4603.JPG#saveurl=/opt/tomcat/webapps/targetreg/userupload/514f280f44ff4e76baa9d3e668cd4603_cap.JPG#upleftx=52#uplefty=87#width=412#
+imgwidth is 908, imgheight is 639
+width is 619height is 442upleftx is 78uplefty is 137
+ASIFT Start.
+Feature Save URL ## /opt/tomcat/webapps/targetreg/userupload/514f280f44ff4e76baa9d3e668cd4603_cap.csv
+Extract Features From:/opt/tomcat/webapps/targetreg/userupload/514f280f44ff4e76baa9d3e668cd4603_cap.JPG
+Processing. 
+image heigh : 442
+image width : 619
+image band  : 3
+WARNING: The input images are resized to 200x142 for ASIFT. 
+         But the results will be normalized to the original image size.
+
+398 ASIFT keypoints are detected. 
+extract done.
+ASIFT Done. Running time:0
+Sparse Representation Start.
+Sparse Representation Done. Running time:7
+[20:26:28 10/18/16] INFO  - status 1
+[20:26:28 10/18/16] INFO  -  id:39 path:116.288661,40.078453 name:中科院遥感与数字地球研究所
+[20:26:28 10/18/16] INFO  -  id:59 path:116.39548,39.932907 name:北海公园(遥感)
+[20:26:28 10/18/16] INFO  -  id:82 path:116.388222,39.880236 name:陶然亭公园(遥感)
+[20:26:28 10/18/16] INFO  -  id:99 path:116.327767,39.900513 name:北京西站(遥感)
+[20:26:28 10/18/16] INFO  -  id:23 path:116.486297,40.000851 name:望京soho
+[20:26:28 10/18/16] INFO  -  id:79 path:116.403511,39.923114 name:紫禁城(遥感)
+[20:26:28 10/18/16] INFO  -  id:84 path:116.27487,39.998475 name:颐和园(遥感)
+[20:26:28 10/18/16] INFO  -  id:3 path:116.257021,39.911812 name:北京国际雕塑公园
+[20:26:28 10/18/16] INFO  -  id:27 path:116.326852,39.916398 name:梅地亚中心
+[20:26:28 10/18/16] INFO  -  id:20 path:116.387103,40.019668 name:奥林匹克森林公园五环亭
+[20:26:28 10/18/16] INFO  - RetrieveServer ## id=bfc990b73b904db5#pi=1#pn=10#word=中科院遥感与数字地球研究所#
+[20:26:28 10/18/16] INFO  - status 1
+[20:26:28 10/18/16] INFO  -  id:1336 path:/opt/tomcat/webapps/targetreg/admindata/remote/89_中科院遥感与数字地球研究所(遥感)/ name:89_1.jpg
+[20:26:28 10/18/16] INFO  -  id:1337 path:/opt/tomcat/webapps/targetreg/admindata/remote/89_中科院遥感与数字地球研究所(遥感)/ name:89_2.jpg
+[20:26:28 10/18/16] INFO  -  id:1338 path:/opt/tomcat/webapps/targetreg/admindata/remote/89_中科院遥感与数字地球研究所(遥感)/ name:89_3.jpg
+[20:26:28 10/18/16] INFO  -  id:1339 path:/opt/tomcat/webapps/targetreg/admindata/remote/89_中科院遥感与数字地球研究所(遥感)/ name:89_4.jpg
+[20:26:28 10/18/16] INFO  -  id:1340 path:/opt/tomcat/webapps/targetreg/admindata/remote/89_中科院遥感与数字地球研究所(遥感)/ name:89_5.jpg
+[20:26:28 10/18/16] INFO  -  id:5096 path:/opt/tomcat/webapps/targetreg/admindata/photo/39_中科院遥感与数字地球研究所/ name:39_1.jpg
+[20:26:28 10/18/16] INFO  -  id:5097 path:/opt/tomcat/webapps/targetreg/admindata/photo/39_中科院遥感与数字地球研究所/ name:39_2.jpg
+[20:26:28 10/18/16] INFO  -  id:5098 path:/opt/tomcat/webapps/targetreg/admindata/photo/39_中科院遥感与数字地球研究所/ name:39_3.jpg
+[20:26:28 10/18/16] INFO  -  id:5099 path:/opt/tomcat/webapps/targetreg/admindata/photo/39_中科院遥感与数字地球研究所/ name:39_4.jpg
+[20:26:28 10/18/16] INFO  -  id:5100 path:/opt/tomcat/webapps/targetreg/admindata/photo/39_中科院遥感与数字地球研究所/ name:39_5.jpg
+[20:26:28 10/18/16] INFO  -  id:5101 path:/opt/tomcat/webapps/targetreg/admindata/photo/39_中科院遥感与数字地球研究所/ name:39_6.jpg
+[20:26:28 10/18/16] INFO  -  id:5102 path:/opt/tomcat/webapps/targetreg/admindata/photo/39_中科院遥感与数字地球研究所/ name:39_7.JPG
+[20:26:39 10/18/16] INFO  - RetrieveServer ## id=fbf05448488a4ca4#pi=1#pn=10#word=水立方#
+[20:26:39 10/18/16] INFO  - status 1
+[20:26:39 10/18/16] INFO  -  id:126 path:116.396767,39.999455 name:水立方
+[20:26:39 10/18/16] INFO  -  id:178 path:116.396767,39.999455 name:水立方(遥感)
+[20:26:39 10/18/16] INFO  - RetrieveServer ## id=2ab23ea8e2ae4c8f#pi=1#pn=10#word=水立方#
+[20:26:39 10/18/16] INFO  - status 1
+[20:26:39 10/18/16] INFO  -  id:1366 path:/opt/tomcat/webapps/targetreg/admindata/remote/96_水立方(遥感)/ name:96_1.jpg
+[20:26:39 10/18/16] INFO  -  id:1367 path:/opt/tomcat/webapps/targetreg/admindata/remote/96_水立方(遥感)/ name:96_2.jpg
+[20:26:39 10/18/16] INFO  -  id:1368 path:/opt/tomcat/webapps/targetreg/admindata/remote/96_水立方(遥感)/ name:96_3.jpg
+[20:26:39 10/18/16] INFO  -  id:1369 path:/opt/tomcat/webapps/targetreg/admindata/remote/96_水立方(遥感)/ name:96_4.jpg
+[20:26:39 10/18/16] INFO  -  id:1370 path:/opt/tomcat/webapps/targetreg/admindata/remote/96_水立方(遥感)/ name:96_5.jpg
+[20:26:39 10/18/16] INFO  -  id:5322 path:/opt/tomcat/webapps/targetreg/admindata/photo/46_水立方/ name:46_1.jpg
+[20:26:39 10/18/16] INFO  -  id:5323 path:/opt/tomcat/webapps/targetreg/admindata/photo/46_水立方/ name:46_10.jpg
+[20:26:39 10/18/16] INFO  -  id:5324 path:/opt/tomcat/webapps/targetreg/admindata/photo/46_水立方/ name:46_11.jpg
+[20:26:39 10/18/16] INFO  -  id:5325 path:/opt/tomcat/webapps/targetreg/admindata/photo/46_水立方/ name:46_12.jpg
+[20:26:39 10/18/16] INFO  -  id:5326 path:/opt/tomcat/webapps/targetreg/admindata/photo/46_水立方/ name:46_13.jpg
+[20:26:39 10/18/16] INFO  -  id:5327 path:/opt/tomcat/webapps/targetreg/admindata/photo/46_水立方/ name:46_14.jpg
+[20:26:39 10/18/16] INFO  -  id:5328 path:/opt/tomcat/webapps/targetreg/admindata/photo/46_水立方/ name:46_15.jpg
+[20:26:39 10/18/16] INFO  -  id:5329 path:/opt/tomcat/webapps/targetreg/admindata/photo/46_水立方/ name:46_16.jpg
+[20:26:39 10/18/16] INFO  -  id:5330 path:/opt/tomcat/webapps/targetreg/admindata/photo/46_水立方/ name:46_17.jpg
+[20:26:39 10/18/16] INFO  -  id:5331 path:/opt/tomcat/webapps/targetreg/admindata/photo/46_水立方/ name:46_18.jpg
